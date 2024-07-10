@@ -1,6 +1,6 @@
 'use client';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
-import { FC } from 'react';
+import { FC, useRef } from 'react';
 import { useRecoilState } from 'recoil';
 
 type PlaybackItemProps = {
@@ -10,13 +10,21 @@ type PlaybackItemProps = {
 };
 
 const PlaybackItem: FC<PlaybackItemProps> = ({ selected, label, handleClick }) => {
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const onClick = () => {
+    handleClick();
+    audioRef.current?.play();
+  };
   const normalStyle = 'w-full cursor-pointer';
   const selectedStyle = `w-full bg-gray-400 cursor-pointer`;
   const style = selected ? selectedStyle : normalStyle;
 
   return (
-    <div className={style} onClick={handleClick}>
+    <div className={style} onClick={onClick}>
       {label}
+      <audio ref={audioRef}>
+        <source src={'audio/' + label + '.mp3'} type="audio/mpeg" />
+      </audio>
     </div>
   );
 };

@@ -1,5 +1,6 @@
 'use client';
 import { AllButtonListSelectedIndexState } from '@/atoms/AllButtonListSelectedIndex';
+import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import { FC, useRef } from 'react';
 import { useRecoilState } from 'recoil';
 import Data from '../../public/button_list.json';
@@ -8,20 +9,22 @@ type AudioItemProps = {
   selected: boolean;
   label: string;
   handleClick: () => void;
+  handleDoubleClick: () => void;
 };
 
-const AudioItem: FC<AudioItemProps> = ({ selected, label, handleClick }) => {
+const AudioItem: FC<AudioItemProps> = ({ selected, label, handleClick, handleDoubleClick }) => {
   const audioRef = useRef<HTMLAudioElement>(null);
   const onClick = () => {
     handleClick();
     audioRef.current?.play();
   };
+
   const normalStyle = 'w-full cursor-pointer';
   const selectedStyle = `w-full bg-gray-400 cursor-pointer`;
   const style = selected ? selectedStyle : normalStyle;
 
   return (
-    <div className={style} onClick={onClick}>
+    <div className={style} onClick={onClick} onDoubleClick={handleDoubleClick}>
       {label}
       <audio ref={audioRef}>
         <source src={'audio/' + label + '.mp3'} type="audio/mpeg" />
@@ -52,6 +55,16 @@ const AllAudioList: FC = () => {
       selectedIndex: index,
     });
   };
+
+  const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
+
+  const handleDoubleClick = () => {
+    setPlaybackItems({
+      items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],
+      selectedIndex: playbackItems.items.length,
+    });
+  };
+
   return (
     <div className="overflow-y-auto w-full h-screen bg-white border rounded-md border-black block">
       {Data.map((item, index) => {
@@ -61,6 +74,7 @@ const AllAudioList: FC = () => {
             label={item.label}
             key={item.label}
             handleClick={handleClick(index)}
+            handleDoubleClick={handleDoubleClick}
           />
         );
       })}

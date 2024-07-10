@@ -8,7 +8,7 @@ type PlaybackItemsType = {
 export const PlaybackItemsState = atom<PlaybackItemsType>({
   key: 'playbackItems',
   default: {
-    selectedIndex: 1,
-    items: ['1', '2', '3'],
+    selectedIndex: -1,
+    items: [],
   },
 });
