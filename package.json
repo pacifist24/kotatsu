@@ -15,10 +15,13 @@
     "@material-ui/icons": "^4.11.3",
     "@mui/icons-material": "^5.16.0",
     "@mui/material": "^5.16.0",
+    "@types/howler": "^2.2.11",
+    "howler": "^2.2.4",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "recoil": "^0.7.7"
+    "recoil": "^0.7.7",
+    "use-sound": "^4.0.3"
   },
   "devDependencies": {
     "@types/node": "^20",

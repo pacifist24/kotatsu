@@ -10,10 +10,13 @@ const AddButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
 
   const onClick = () => {
-    setPlaybackItems({
-      items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],
-      selectedIndex: playbackItems.items.length,
-    });
+    if (playbackItems.nowPlayIndex === -1) {
+      setPlaybackItems({
+        ...playbackItems,
+        items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],
+        selectedIndex: playbackItems.items.length,
+      });
+    }
   };
   return (
     <>

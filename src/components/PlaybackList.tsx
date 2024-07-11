@@ -1,30 +1,32 @@
 'use client';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
-import { FC, useRef } from 'react';
+import { Howl } from 'howler';
+import { FC } from 'react';
 import { useRecoilState } from 'recoil';
 
 type PlaybackItemProps = {
+  nowPlaying: boolean;
   selected: boolean;
   label: string;
   handleClick: () => void;
 };
 
-const PlaybackItem: FC<PlaybackItemProps> = ({ selected, label, handleClick }) => {
-  const audioRef = useRef<HTMLAudioElement>(null);
+const PlaybackItem: FC<PlaybackItemProps> = ({ selected, label, handleClick, nowPlaying }) => {
   const onClick = () => {
     handleClick();
-    audioRef.current?.play();
+    const sound = new Howl({
+      src: ['audio/' + label + '.mp3'],
+    });
+    sound.play();
   };
-  const normalStyle = 'w-full cursor-pointer';
-  const selectedStyle = `w-full bg-gray-400 cursor-pointer`;
-  const style = selected ? selectedStyle : normalStyle;
+  const normalStyle = 'w-full cursor-pointer py-0.5 px-1';
+  const selectedStyle = `w-full py-0.5 px-1 bg-gray-500 text-white cursor-pointer`;
+  const nowPlayingStyle = 'w-full cursor-pointer py-0.5 px-1 bg-orange-200';
+  const style = nowPlaying ? nowPlayingStyle : selected ? selectedStyle : normalStyle;
 
   return (
     <div className={style} onClick={onClick}>
       {label}
-      <audio ref={audioRef}>
-        <source src={'audio/' + label + '.mp3'} type="audio/mpeg" />
-      </audio>
     </div>
   );
 };
@@ -46,11 +48,12 @@ const PlaybackList: FC = () => {
     }
   };
   return (
-    <div className="overflow-y-auto w-full h-screen bg-white border rounded-md border-black block">
+    <div className="overflow-y-auto w-full h-full bg-white border rounded-md border-black block">
       {playbackItems.items.length !== 0 &&
         playbackItems.items.map((item, index) => {
           return (
             <PlaybackItem
+              nowPlaying={playbackItems.nowPlayIndex === index}
               selected={playbackItems.selectedIndex === index}
               label={item}
               key={index}

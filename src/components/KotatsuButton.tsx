@@ -2,17 +2,21 @@
 import Button from '@mui/material/Button';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
-import { FC, useRef, useState } from 'react';
+import { Howl } from 'howler';
+import { FC, useState } from 'react';
 
 type Props = {
   text: string;
   filename: string;
+  handleAddToPlaylist: () => void;
 };
 
-const KotatsuButton: FC<Props> = ({ text, filename }) => {
-  const audioRef = useRef<HTMLAudioElement>(null);
+const KotatsuButton: FC<Props> = ({ text, filename, handleAddToPlaylist }) => {
   const handlePlay = () => {
-    audioRef.current?.play();
+    const sound = new Howl({
+      src: ['audio/' + filename],
+    });
+    sound.play();
   };
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
   const open = Boolean(anchorEl);
@@ -23,14 +27,18 @@ const KotatsuButton: FC<Props> = ({ text, filename }) => {
   const handleClose = () => {
     setAnchorEl(null);
   };
+
+  const handleClickAddToPlaylist = () => {
+    handleAddToPlaylist();
+    handleClose();
+  };
+
   return (
     <>
       <Button variant="outlined" onClick={handlePlay} onContextMenu={onRightClick}>
         {text}
       </Button>
-      <audio ref={audioRef}>
-        <source src={'audio/' + filename} type="audio/mpeg" />
-      </audio>
+
       <Menu
         id="basic-menu"
         anchorEl={anchorEl}
@@ -48,9 +56,7 @@ const KotatsuButton: FC<Props> = ({ text, filename }) => {
           horizontal: 'left',
         }}
       >
-        <MenuItem onClick={handleClose}>Profile</MenuItem>
-        <MenuItem onClick={handleClose}>My account</MenuItem>
-        <MenuItem onClick={handleClose}>Logout</MenuItem>
+        <MenuItem onClick={handleClickAddToPlaylist}>連続再生リストに追加</MenuItem>
       </Menu>
     </>
   );

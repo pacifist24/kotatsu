@@ -3,22 +3,28 @@ import AddButton from '@/components/AddButton';
 import AllAudioList from '@/components/AllAudioList';
 import OperationBar from '@/components/OperationBar';
 import PlaybackList from '@/components/PlaybackList';
+import PlayButton from '@/components/PlayButton';
 import { FC } from 'react';
 
 const ContinuousPlaybackTab: FC = () => {
   return (
-    <div className="flex">
-      <div className="w-1/3">
-        <AllAudioList />
+    <div className="flex flex-col h-screen">
+      <div className="flex h-3/4">
+        <div className="w-5/12">
+          <AllAudioList />
+        </div>
+        <div className="w-1/12 flex items-center justify-center">
+          <AddButton />
+        </div>
+        <div className="w-5/12">
+          <PlaybackList />
+        </div>
+        <div className="w-1/12 flex items-center justify-center">
+          <OperationBar />
+        </div>
       </div>
-      <div className="w-1/12 h-screen flex items-center justify-center">
-        <AddButton />
-      </div>
-      <div className="w-1/3">
-        <PlaybackList />
-      </div>
-      <div className="w-1/12 h-screen">
-        <OperationBar />
+      <div className="">
+        <PlayButton />
       </div>
     </div>
   );

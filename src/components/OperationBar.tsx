@@ -1,19 +1,18 @@
-// import { AllButtonListSelectedIndexState } from '@/atoms/AllButtonListSelectedIndex';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import IconButton from '@mui/material/IconButton';
 import { FC } from 'react';
 import { useRecoilState } from 'recoil';
-// import Data from '../../public/button_list.json';
 
 const MoveUpButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const onClick = () => {
-    if (playbackItems.selectedIndex > 0) {
+    if (playbackItems.selectedIndex > 0 && playbackItems.nowPlayIndex === -1) {
       const temp = playbackItems.items[playbackItems.selectedIndex];
       const tempArr = [...playbackItems.items];
       tempArr[playbackItems.selectedIndex] = tempArr[playbackItems.selectedIndex - 1];
       tempArr[playbackItems.selectedIndex - 1] = temp;
       setPlaybackItems({
+        ...playbackItems,
         items: tempArr,
         selectedIndex: playbackItems.selectedIndex - 1,
       });
@@ -46,13 +45,15 @@ const MoveDownButton: FC = () => {
   const onClick = () => {
     if (
       playbackItems.selectedIndex >= 0 &&
-      playbackItems.selectedIndex != playbackItems.items.length - 1
+      playbackItems.selectedIndex != playbackItems.items.length - 1 &&
+      playbackItems.nowPlayIndex === -1
     ) {
       const temp = playbackItems.items[playbackItems.selectedIndex];
       const tempArr = [...playbackItems.items];
       tempArr[playbackItems.selectedIndex] = tempArr[playbackItems.selectedIndex + 1];
       tempArr[playbackItems.selectedIndex + 1] = temp;
       setPlaybackItems({
+        ...playbackItems,
         items: tempArr,
         selectedIndex: playbackItems.selectedIndex + 1,
       });
@@ -83,10 +84,11 @@ const MoveDownButton: FC = () => {
 const TrashButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const onClick = () => {
-    if (playbackItems.selectedIndex >= 0) {
+    if (playbackItems.selectedIndex >= 0 && playbackItems.nowPlayIndex === -1) {
       const tempArr = [...playbackItems.items];
-      delete tempArr[playbackItems.selectedIndex];
+      tempArr.splice(playbackItems.selectedIndex, 1);
       setPlaybackItems({
+        ...playbackItems,
         items: tempArr,
         selectedIndex: -1,
       });
@@ -115,15 +117,6 @@ const TrashButton: FC = () => {
 };
 
 const OperationBar: FC = () => {
-  // const allButtonListSelectedIndex = useRecoilValue(AllButtonListSelectedIndexState);
-  // const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
-
-  // const onClick = () => {
-  //   setPlaybackItems({
-  //     items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],
-  //     selectedIndex: -1,
-  //   });
-  // };
   return (
     <div className=" flex items-center justify-center h-screen flex-col">
       <div className="mb-3">

@@ -1,7 +1,8 @@
 'use client';
 import { AllButtonListSelectedIndexState } from '@/atoms/AllButtonListSelectedIndex';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
-import { FC, useRef } from 'react';
+import { Howl } from 'howler';
+import { FC } from 'react';
 import { useRecoilState } from 'recoil';
 import Data from '../../public/button_list.json';
 
@@ -12,23 +13,33 @@ type AudioItemProps = {
   handleDoubleClick: () => void;
 };
 
+let clickCount = 0;
 const AudioItem: FC<AudioItemProps> = ({ selected, label, handleClick, handleDoubleClick }) => {
-  const audioRef = useRef<HTMLAudioElement>(null);
   const onClick = () => {
+    clickCount++;
     handleClick();
-    audioRef.current?.play();
+    if (clickCount == 1) {
+      const sound = new Howl({
+        src: ['audio/' + label + '.mp3'],
+      });
+      sound.play();
+    }
+    setTimeout(() => {
+      clickCount = 0;
+    }, 200);
   };
 
-  const normalStyle = 'w-full cursor-pointer';
-  const selectedStyle = `w-full bg-gray-400 cursor-pointer`;
+  const onDoubleClick = () => {
+    handleDoubleClick();
+  };
+
+  const normalStyle = 'w-full cursor-pointer py-0.5 px-1';
+  const selectedStyle = `w-full py-0.5 px-1 bg-gray-500 text-white cursor-pointer`;
   const style = selected ? selectedStyle : normalStyle;
 
   return (
-    <div className={style} onClick={onClick} onDoubleClick={handleDoubleClick}>
+    <div className={style} onClick={onClick} onDoubleClick={onDoubleClick}>
       {label}
-      <audio ref={audioRef}>
-        <source src={'audio/' + label + '.mp3'} type="audio/mpeg" />
-      </audio>
     </div>
   );
 };
@@ -38,18 +49,6 @@ const AllAudioList: FC = () => {
     AllButtonListSelectedIndexState
   );
   const handleClick = (index: number) => () => {
-    // if (index === allButtonListSelectedIndex.selectedIndex) {
-    //   //既に選択されている項目をクリックされた場合は選択を解除する
-    //   setAllButtonListSelectedIndex({
-    //     ...allButtonListSelectedIndex,
-    //     selectedIndex: -1,
-    //   });
-    // } else {
-    //   setAllButtonListSelectedIndex({
-    //     ...allButtonListSelectedIndex,
-    //     selectedIndex: index,
-    //   });
-    // }
     setAllButtonListSelectedIndex({
       ...allButtonListSelectedIndex,
       selectedIndex: index,
@@ -59,14 +58,17 @@ const AllAudioList: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
 
   const handleDoubleClick = () => {
-    setPlaybackItems({
-      items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],
-      selectedIndex: playbackItems.items.length,
-    });
+    if (playbackItems.nowPlayIndex === -1) {
+      setPlaybackItems({
+        ...playbackItems,
+        items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],
+        selectedIndex: playbackItems.items.length,
+      });
+    }
   };
 
   return (
-    <div className="overflow-y-auto w-full h-screen bg-white border rounded-md border-black block">
+    <div className="overflow-y-auto w-full h-full bg-white border rounded-md border-black block">
       {Data.map((item, index) => {
         return (
           <AudioItem
