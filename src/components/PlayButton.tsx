@@ -44,18 +44,28 @@ const PlayButton: FC = () => {
       nowPlayIndex: -1,
     });
   };
+  const onStop = () => {
+    if (sound != null) {
+      sound.stop();
+    }
+    setPlaybackItems({
+      ...playbackItems,
+      nowPlayIndex: -1,
+    });
+  };
 
   return (
     <div className="w-full flex justify-center mt-3">
-      <Button
-        onClick={onClick}
-        variant="outlined"
-        style={{ width: '30%' }}
-        disabled={playbackItems.nowPlayIndex != -1}
-      >
-        再生
-      </Button>
-
+      {playbackItems.nowPlayIndex == -1 && (
+        <Button onClick={onClick} variant="outlined" style={{ width: '30%' }}>
+          再生
+        </Button>
+      )}
+      {playbackItems.nowPlayIndex != -1 && (
+        <Button onClick={onStop} variant="outlined" style={{ width: '30%' }}>
+          停止
+        </Button>
+      )}
       <div className="text-sm">
         <Checkbox checked={loopPlayChecked} onChange={onChange} />
         ループ再生

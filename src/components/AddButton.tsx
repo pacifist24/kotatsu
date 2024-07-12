@@ -11,6 +11,13 @@ const AddButton: FC = () => {
 
   const onClick = () => {
     if (playbackItems.nowPlayIndex === -1) {
+      localStorage.setItem(
+        'playbackItems',
+        JSON.stringify([
+          ...playbackItems.items,
+          Data[allButtonListSelectedIndex.selectedIndex].label,
+        ])
+      );
       setPlaybackItems({
         ...playbackItems,
         items: [...playbackItems.items, Data[allButtonListSelectedIndex.selectedIndex].label],

@@ -10,6 +10,7 @@ const AllButtonTab: FC = () => {
 
   const handleAddToPlaylist = (item: string) => () => {
     if (playbackItems.nowPlayIndex === -1) {
+      localStorage.setItem('playbackItems', JSON.stringify([...playbackItems.items, item]));
       setPlaybackItems({
         ...playbackItems,
         items: [...playbackItems.items, item],
