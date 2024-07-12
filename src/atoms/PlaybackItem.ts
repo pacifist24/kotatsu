@@ -6,10 +6,12 @@ type PlaybackItemsType = {
   items: string[];
 };
 
-const serializedArray = localStorage.getItem('playbackItems');
 let defaultValue = [];
-if (serializedArray != null) {
-  defaultValue = JSON.parse(serializedArray);
+if (typeof window !== 'undefined') {
+  const serializedArray = localStorage.getItem('playbackItems');
+  if (serializedArray != null) {
+    defaultValue = JSON.parse(serializedArray);
+  }
 }
 
 export const PlaybackItemsState = atom<PlaybackItemsType>({
