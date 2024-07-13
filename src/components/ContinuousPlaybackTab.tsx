@@ -9,7 +9,7 @@ import { FC } from 'react';
 const ContinuousPlaybackTab: FC = () => {
   return (
     <div className="flex flex-col h-screen">
-      <div className="flex h-3/4">
+      <div className="flex h-2/3">
         <div className="w-5/12">
           <AllAudioList />
         </div>
@@ -23,7 +23,7 @@ const ContinuousPlaybackTab: FC = () => {
           <OperationBar />
         </div>
       </div>
-      <div className="">
+      <div>
         <PlayButton />
       </div>
     </div>
