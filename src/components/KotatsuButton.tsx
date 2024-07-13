@@ -1,63 +1,33 @@
-'use client';
-import Button from '@mui/material/Button';
-import Menu from '@mui/material/Menu';
-import MenuItem from '@mui/material/MenuItem';
 import { Howl } from 'howler';
-import { FC, useState } from 'react';
+import { FC } from 'react';
 
 type Props = {
   text: string;
   filename: string;
-  handleAddToPlaylist: () => void;
+  handleRightClick: (event: React.MouseEvent<HTMLButtonElement>) => void;
 };
 
-const KotatsuButton: FC<Props> = ({ text, filename, handleAddToPlaylist }) => {
+const KotatsuButton: FC<Props> = ({ text, filename, handleRightClick }) => {
   const handlePlay = () => {
     const sound = new Howl({
       src: ['audio/' + filename],
     });
     sound.play();
   };
-  const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
-  const open = Boolean(anchorEl);
-  const onRightClick = (event: React.MouseEvent<HTMLElement>) => {
+  const onRightClick = (event: React.MouseEvent<HTMLButtonElement>) => {
     event.preventDefault();
-    setAnchorEl(event.currentTarget);
-  };
-  const handleClose = () => {
-    setAnchorEl(null);
-  };
-
-  const handleClickAddToPlaylist = () => {
-    handleAddToPlaylist();
-    handleClose();
+    handleRightClick(event);
   };
 
   return (
     <>
-      <Button variant="outlined" onClick={handlePlay} onContextMenu={onRightClick}>
-        {text}
-      </Button>
-
-      <Menu
-        id="basic-menu"
-        anchorEl={anchorEl}
-        open={open}
-        onClose={handleClose}
-        MenuListProps={{
-          'aria-labelledby': 'basic-button',
-        }}
-        anchorOrigin={{
-          vertical: 'center',
-          horizontal: 'right',
-        }}
-        transformOrigin={{
-          vertical: 'top',
-          horizontal: 'left',
-        }}
+      <button
+        className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+        onClick={handlePlay}
+        onContextMenu={onRightClick}
       >
-        <MenuItem onClick={handleClickAddToPlaylist}>連続再生リストに追加</MenuItem>
-      </Menu>
+        {text}
+      </button>
     </>
   );
 };
