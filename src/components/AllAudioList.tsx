@@ -1,7 +1,7 @@
 'use client';
+import { makeAudioPlayer } from '@/app/playAudio';
 import { AllButtonListSelectedIndexState } from '@/atoms/AllButtonListSelectedIndex';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
-import { Howl } from 'howler';
 import { FC } from 'react';
 import { useRecoilState } from 'recoil';
 import Data from '../../public/button_list.json';
@@ -19,9 +19,7 @@ const AudioItem: FC<AudioItemProps> = ({ selected, label, handleClick, handleDou
     clickCount++;
     handleClick();
     if (clickCount == 1) {
-      const sound = new Howl({
-        src: ['audio/' + label + '.mp3'],
-      });
+      const sound = makeAudioPlayer(label);
       sound.play();
     }
     setTimeout(() => {

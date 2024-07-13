@@ -1,6 +1,6 @@
 'use client';
+import { makeAudioPlayer } from '@/app/playAudio';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
-import { Howl } from 'howler';
 import { FC } from 'react';
 import { useRecoilState } from 'recoil';
 
@@ -14,9 +14,7 @@ type PlaybackItemProps = {
 const PlaybackItem: FC<PlaybackItemProps> = ({ selected, label, handleClick, nowPlaying }) => {
   const onClick = () => {
     handleClick();
-    const sound = new Howl({
-      src: ['audio/' + label + '.mp3'],
-    });
+    const sound = makeAudioPlayer(label);
     sound.play();
   };
   const normalStyle = 'w-full cursor-pointer py-0.5 px-1';

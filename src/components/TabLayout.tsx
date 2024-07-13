@@ -1,6 +1,7 @@
 'use client';
-import AllButtonTab from '@/components/AllButtonTab';
+import AllButtonTab from '@/components/ButtonTab';
 import ContinuousPlaybackTab from '@/components/ContinuousPlaybackTab';
+import ListByUseTab from '@/components/ListByUseTab';
 import Box from '@mui/material/Box';
 import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
@@ -48,13 +49,17 @@ const TableLayout = () => {
       <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
         <Tabs value={value} onChange={handleChange} aria-label="basic tabs example">
           <Tab label="全一覧" {...a11yProps(0)} />
-          <Tab label="連続再生" {...a11yProps(1)} />
+          <Tab label="会話用途別一覧" {...a11yProps(1)} />
+          <Tab label="連続再生" {...a11yProps(2)} />
         </Tabs>
       </Box>
       <CustomTabPanel value={value} index={0}>
-        <AllButtonTab />
+        <AllButtonTab byUse="" />
       </CustomTabPanel>
       <CustomTabPanel value={value} index={1}>
+        <ListByUseTab />
+      </CustomTabPanel>
+      <CustomTabPanel value={value} index={2}>
         <ContinuousPlaybackTab />
       </CustomTabPanel>
     </Box>

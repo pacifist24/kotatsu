@@ -7,7 +7,11 @@ import { FC, useState } from 'react';
 import { useRecoilState } from 'recoil';
 import Data from '../../public/button_list.json';
 
-const AllButtonTab: FC = () => {
+type Props = {
+  byUse: string;
+};
+
+const ButtonTab: FC<Props> = ({ byUse }) => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
   const [selectedButton, setSelectedButton] = useState<string>('');
@@ -40,11 +44,16 @@ const AllButtonTab: FC = () => {
   return (
     <div className="flex flex-wrap">
       {Data.map((item) => {
-        return (
-          <div className="mr-2 mb-2" key={item.label}>
-            <KotatsuButton label={item.label} handleRightClick={handleOpenManu(item.label)} />
-          </div>
-        );
+        if (byUse === '' || item.className === byUse) {
+          return (
+            <div className="mr-2 mb-2" key={item.label}>
+              <KotatsuButton label={item.label} handleRightClick={handleOpenManu(item.label)} />
+            </div>
+          );
+        } else {
+          // それ以外の場合は null を返す (何もレンダリングしない)
+          return null;
+        }
       })}
       <Menu
         id="basic-menu"
@@ -69,4 +78,4 @@ const AllButtonTab: FC = () => {
   );
 };
 
-export default AllButtonTab;
+export default ButtonTab;
