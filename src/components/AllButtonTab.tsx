@@ -42,11 +42,7 @@ const AllButtonTab: FC = () => {
       {Data.map((item) => {
         return (
           <div className="mr-2 mb-2" key={item.label}>
-            <KotatsuButton
-              text={item.label}
-              filename={item.label + '.mp3'}
-              handleRightClick={handleOpenManu(item.label)}
-            />
+            <KotatsuButton label={item.label} handleRightClick={handleOpenManu(item.label)} />
           </div>
         );
       })}

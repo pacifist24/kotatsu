@@ -1,7 +1,7 @@
+import { makeAudioPlayer } from '@/app/playAudio';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import Button from '@mui/material/Button';
 import Checkbox from '@mui/material/Checkbox';
-import { Howl } from 'howler';
 import { FC, useState } from 'react';
 import { useRecoilState } from 'recoil';
 
@@ -17,10 +17,7 @@ const PlayButton: FC = () => {
         ...playbackItems,
         nowPlayIndex: index,
       });
-      sound = new Howl({
-        src: ['audio/' + playbackItems.items[index] + '.mp3'],
-        onend: playsound(index + 1),
-      });
+      sound = makeAudioPlayer(playbackItems.items[index], playsound(index + 1));
       sound.play();
     } else if (loopPlayChecked) {
       playsound(0)();

@@ -1,17 +1,14 @@
-import { Howl } from 'howler';
+import { makeAudioPlayer } from '@/app/playAudio';
 import { FC } from 'react';
 
 type Props = {
-  text: string;
-  filename: string;
+  label: string;
   handleRightClick: (event: React.MouseEvent<HTMLButtonElement>) => void;
 };
 
-const KotatsuButton: FC<Props> = ({ text, filename, handleRightClick }) => {
+const KotatsuButton: FC<Props> = ({ label, handleRightClick }) => {
   const handlePlay = () => {
-    const sound = new Howl({
-      src: ['audio/' + filename],
-    });
+    const sound = makeAudioPlayer(label);
     sound.play();
   };
   const onRightClick = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -26,7 +23,7 @@ const KotatsuButton: FC<Props> = ({ text, filename, handleRightClick }) => {
         onClick={handlePlay}
         onContextMenu={onRightClick}
       >
-        {text}
+        {label}
       </button>
     </>
   );
