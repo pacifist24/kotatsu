@@ -1,6 +1,5 @@
-'use client';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
-import KotatsuButton from '@/components/KotatsuButton';
+import UiButton from '@/components/UiButton';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
 import { FC, useState } from 'react';
@@ -47,7 +46,7 @@ const ButtonTab: FC<Props> = ({ byUse }) => {
         if (byUse === '' || item.className === byUse) {
           return (
             <div className="mr-2 mb-2" key={item.label}>
-              <KotatsuButton label={item.label} handleRightClick={handleOpenManu(item.label)} />
+              <UiButton label={item.label} handleRightClick={handleOpenManu(item.label)} />
             </div>
           );
         } else {

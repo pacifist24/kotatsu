@@ -1,4 +1,3 @@
-'use client';
 import AllButtonTab from '@/components/ButtonTab';
 import ContinuousPlaybackTab from '@/components/ContinuousPlaybackTab';
 import ListByUseTab from '@/components/ListByUseTab';

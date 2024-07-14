@@ -3,10 +3,7 @@ import Box from '@mui/material/Box';
 import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
 import React from 'react';
-// import Data from '../../public/button_list.json';
 
-// const uniqueClassNames = [new Set(Data.map((item) => item.className))];
-// console.log(uniqueClassNames);
 const tabNames = [
   'あいさつ',
   '肯定',

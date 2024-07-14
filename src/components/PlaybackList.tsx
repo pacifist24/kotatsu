@@ -1,4 +1,3 @@
-'use client';
 import { makeAudioPlayer } from '@/app/playAudio';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import { FC } from 'react';

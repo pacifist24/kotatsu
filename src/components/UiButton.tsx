@@ -6,7 +6,7 @@ type Props = {
   handleRightClick: (event: React.MouseEvent<HTMLButtonElement>) => void;
 };
 
-const KotatsuButton: FC<Props> = ({ label, handleRightClick }) => {
+const UiButton: FC<Props> = ({ label, handleRightClick }) => {
   const handlePlay = () => {
     const sound = makeAudioPlayer(label);
     sound.play();
@@ -29,4 +29,4 @@ const KotatsuButton: FC<Props> = ({ label, handleRightClick }) => {
   );
 };
 
-export default KotatsuButton;
+export default UiButton;
