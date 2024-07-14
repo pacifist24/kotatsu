@@ -2,7 +2,6 @@ import ButtonTab from '@/components/ButtonTab';
 import Box from '@mui/material/Box';
 import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
-import Typography from '@mui/material/Typography';
 import React from 'react';
 // import Data from '../../public/button_list.json';
 
@@ -46,11 +45,7 @@ function TabPanel(props: TabPanelProps) {
       aria-labelledby={`vertical-tab-${index}`}
       {...other}
     >
-      {value === index && (
-        <Box sx={{ p: 3 }}>
-          <Typography>{children}</Typography>
-        </Box>
-      )}
+      {value === index && <Box sx={{ p: 3 }}>{children}</Box>}
     </div>
   );
 }
@@ -81,7 +76,7 @@ const ListByUseTab = () => {
           sx={{ borderRight: 1, borderColor: 'divider' }}
         >
           {tabNames.map((item, index) => (
-            <Tab label={item} {...a11yProps(index)} key={item} />
+            <Tab label={item} {...a11yProps(index)} key={item} className="w-28" />
           ))}
         </Tabs>
       </div>
