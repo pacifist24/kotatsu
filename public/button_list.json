@@ -5,7 +5,8 @@
     "k": "ああ",
     "volume": 0.2,
     "label": "あ～あ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 0
   },
   {
     "id": "aaa2",
@@ -13,7 +14,8 @@
     "k": "あああああああ",
     "volume": 0.5,
     "label": "あああーああーあぁ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 1
   },
   {
     "id": "aaa",
@@ -21,7 +23,8 @@
     "k": "ああああああああ",
     "volume": 0.5,
     "label": "あぁあぁあぁあぁ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 2
   },
   {
     "id": "ai",
@@ -29,7 +32,8 @@
     "k": "あい",
     "volume": 0.9,
     "label": "あい(低)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 3
   },
   {
     "id": "ai2",
@@ -37,7 +41,8 @@
     "k": "あい",
     "volume": 0.4,
     "label": "あい(幼)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 4
   },
   {
     "id": "ai3",
@@ -45,7 +50,8 @@
     "k": "あい",
     "volume": 0.7,
     "label": "あいーーー",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 5
   },
   {
     "id": "ai4",
@@ -53,7 +59,8 @@
     "k": "あい",
     "volume": 0.5,
     "label": "あい(中)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 6
   },
   {
     "id": "ai5",
@@ -61,7 +68,8 @@
     "k": "あい",
     "volume": 0.5,
     "label": "あい(高)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 7
   },
   {
     "id": "ai_shigureui",
@@ -69,7 +77,8 @@
     "k": "あいしぐれういです",
     "volume": 0.2,
     "label": "あい～しぐれういで～す(寝起き)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 8
   },
   {
     "id": "aishitemasu",
@@ -77,7 +86,8 @@
     "k": "あいしてます",
     "volume": 0.5,
     "label": "愛してます",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 9
   },
   {
     "id": "ihate",
@@ -85,7 +95,8 @@
     "k": "あいへいとろりこん",
     "volume": 0.5,
     "label": "I hate lolicon.",
-    "className": "その他"
+    "className": "その他",
+    "serial": 10
   },
   {
     "id": "aiyo",
@@ -93,7 +104,8 @@
     "k": "あいよお",
     "volume": 0.3,
     "label": "あいよぉ(寝起き)",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 11
   },
   {
     "id": "aoishi",
@@ -101,7 +113,8 @@
     "k": "あおいし",
     "volume": 0.3,
     "label": "あ～、おいし",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 12
   },
   {
     "id": "aonakahetta",
@@ -109,7 +122,8 @@
     "k": "あおなかへつた",
     "volume": 1.0,
     "label": "あ、お腹へったー",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 13
   },
   {
     "id": "akitakita2",
@@ -117,7 +131,8 @@
     "k": "あきたきたきたきたきた",
     "volume": 0.8,
     "label": "あ、来た来た来た来た来た",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 14
   },
   {
     "id": "akyaeenen",
@@ -125,7 +140,8 @@
     "k": "あきゃええねんこんなん",
     "volume": 0.5,
     "label": "開きゃええねん、こんなん",
-    "className": "その他"
+    "className": "その他",
+    "serial": 15
   },
   {
     "id": "akiramenna",
@@ -133,7 +149,8 @@
     "k": "あきらめんな",
     "volume": 0.5,
     "label": "あきらめんな",
-    "className": "命令"
+    "className": "命令",
+    "serial": 16
   },
   {
     "id": "takenoko",
@@ -141,7 +158,8 @@
     "k": "あごめんわたしたけのこはなんで",
     "volume": 0.3,
     "label": "あ、ゴメン、私たけのこ派なんで",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 17
   },
   {
     "id": "asonanda",
@@ -149,7 +167,8 @@
     "k": "あそうなんだ",
     "volume": 0.7,
     "label": "あーそうなんだぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 18
   },
   {
     "id": "achotto",
@@ -157,7 +176,8 @@
     "k": "あちよつとお",
     "volume": 0.7,
     "label": "あ ちょっとぉ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 19
   },
   {
     "id": "abune",
@@ -165,7 +185,8 @@
     "k": "あっぶね",
     "volume": 0.7,
     "label": "あっぶねー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 20
   },
   {
     "id": "asoudesuka",
@@ -173,7 +194,8 @@
     "k": "あつそうですか",
     "volume": 0.5,
     "label": "あっそうですか…",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 21
   },
   {
     "id": "atodesuru",
@@ -181,7 +203,8 @@
     "k": "あとでするつつてんだろうが",
     "volume": 1.0,
     "label": "後でするつってんだろうが！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 22
   },
   {
     "id": "atode",
@@ -189,7 +212,8 @@
     "k": "あとでつかおつぴ",
     "volume": 1.0,
     "label": "後で使おうッピ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 23
   },
   {
     "id": "atone",
@@ -197,7 +221,8 @@
     "k": "あとね",
     "volume": 0.5,
     "label": "あとねー",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 24
   },
   {
     "id": "anaruhodo",
@@ -205,7 +230,8 @@
     "k": "あなるほど",
     "volume": 0.25,
     "label": "あーなるほど？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 25
   },
   {
     "id": "nandateme",
@@ -213,7 +239,8 @@
     "k": "あなんだてめ",
     "volume": 0.5,
     "label": "あーなんだてめー",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 26
   },
   {
     "id": "ahaha",
@@ -221,7 +248,8 @@
     "k": "あははつ",
     "volume": 0.5,
     "label": "あははっ",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 27
   },
   {
     "id": "ahontoda",
@@ -229,7 +257,8 @@
     "k": "あほんとだ",
     "volume": 0.8,
     "label": "あ、ほんとだ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 28
   },
   {
     "id": "amaeruna",
@@ -237,7 +266,8 @@
     "k": "あまえるなやれ",
     "volume": 0.5,
     "label": "甘えるな やれ！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 29
   },
   {
     "id": "amaji",
@@ -245,7 +275,8 @@
     "k": "あまじい",
     "volume": 0.5,
     "label": "あ、マジぃ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 30
   },
   {
     "id": "amarihayai",
@@ -253,7 +284,8 @@
     "k": "あまりにはやいわ",
     "volume": 0.5,
     "label": "あまりに早いわwww",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 31
   },
   {
     "id": "amoshimoshi",
@@ -261,7 +293,8 @@
     "k": "あもしもし",
     "volume": 0.25,
     "label": "あ、もしもしー",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 32
   },
   {
     "id": "amoshimoshi2",
@@ -269,7 +302,8 @@
     "k": "あもしもし",
     "volume": 0.25,
     "label": "あ、もしもしー2",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 33
   },
   {
     "id": "ayamare",
@@ -277,7 +311,8 @@
     "k": "あやまれ",
     "volume": 0.5,
     "label": "あやまれ！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 34
   },
   {
     "id": "ara",
@@ -285,7 +320,8 @@
     "k": "あらあ",
     "volume": 0.4,
     "label": "あらぁ～",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 35
   },
   {
     "id": "araara",
@@ -293,7 +329,8 @@
     "k": "あらあらあらあら",
     "volume": 0.5,
     "label": "あらあらあらあら",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 36
   },
   {
     "id": "ara6",
@@ -301,7 +338,8 @@
     "k": "あらあらあらあらあらあら",
     "volume": 0.5,
     "label": "あらあらあらあらあらあら",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 37
   },
   {
     "id": "arigatou5",
@@ -309,7 +347,8 @@
     "k": "ありがと",
     "volume": 0.5,
     "label": "ありがとー",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 38
   },
   {
     "id": "airigatoarigato",
@@ -317,7 +356,8 @@
     "k": "ありがとありがとお",
     "volume": 1.0,
     "label": "ありがとありがとお",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 39
   },
   {
     "id": "arigatou",
@@ -325,7 +365,8 @@
     "k": "ありがとう",
     "volume": 0.5,
     "label": "ありがとう↑",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 40
   },
   {
     "id": "arigatou2",
@@ -333,7 +374,8 @@
     "k": "ありがとう",
     "volume": 0.5,
     "label": "ありがとう↓",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 41
   },
   {
     "id": "arigatou3",
@@ -341,7 +383,8 @@
     "k": "ありがとう",
     "volume": 0.5,
     "label": "ありがとう→",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 42
   },
   {
     "id": "arigatou4",
@@ -349,7 +392,8 @@
     "k": "ありがとう",
     "volume": 0.5,
     "label": "ありがとぅ",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 43
   },
   {
     "id": "arigatou6",
@@ -357,7 +401,8 @@
     "k": "ありがとう",
     "volume": 0.2,
     "label": "ありがとぅ2",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 44
   },
   {
     "id": "arigatou_jj",
@@ -365,7 +410,8 @@
     "k": "ありがとうございます",
     "volume": 0.5,
     "label": "ありがとうございます(JJ)",
-    "className": "お礼"
+    "className": "お礼",
+    "serial": 45
   },
   {
     "id": "arenandesuyo",
@@ -373,7 +419,8 @@
     "k": "あれなんですよ",
     "volume": 0.5,
     "label": "あれなんですよ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 46
   },
   {
     "id": "arjj",
@@ -381,7 +428,8 @@
     "k": "あんどうれいんぼじよにじよにといいます",
     "volume": 0.5,
     "label": "安堂=R=JJといいます(JJ)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 47
   },
   {
     "id": "anpontan",
@@ -389,7 +437,8 @@
     "k": "あんぽんたん",
     "volume": 0.5,
     "label": "アンポンタン!",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 48
   },
   {
     "id": "doujinshini",
@@ -397,7 +446,8 @@
     "k": "あんまなめてるとどうじんしにするぞ",
     "volume": 0.8,
     "label": "あんまナメてると同人誌にするぞ？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 49
   },
   {
     "id": "iikana",
@@ -405,7 +455,8 @@
     "k": "いいかなあ",
     "volume": 0.8,
     "label": "いいかなぁ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 50
   },
   {
     "id": "iikodane",
@@ -413,7 +464,8 @@
     "k": "いいこだねえ",
     "volume": 0.5,
     "label": "いい子だねぇ",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 51
   },
   {
     "id": "iijyan2",
@@ -421,7 +473,8 @@
     "k": "いいじやん",
     "volume": 0.5,
     "label": "いいじゃん!",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 52
   },
   {
     "id": "iizo",
@@ -429,7 +482,8 @@
     "k": "いいぞ",
     "volume": 0.5,
     "label": "いいぞ",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 53
   },
   {
     "id": "iidesuka",
@@ -437,7 +491,8 @@
     "k": "いいですか",
     "volume": 0.9,
     "label": "いいですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 54
   },
   {
     "id": "iidesuyo",
@@ -445,7 +500,8 @@
     "k": "いいですよ",
     "volume": 0.8,
     "label": "いいですよー",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 55
   },
   {
     "id": "iine",
@@ -453,7 +509,8 @@
     "k": "いいね",
     "volume": 1.0,
     "label": "いいね",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 56
   },
   {
     "id": "iiyo",
@@ -461,7 +518,8 @@
     "k": "いいよ",
     "volume": 0.5,
     "label": "いいよー",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 57
   },
   {
     "id": "iiyo2",
@@ -469,7 +527,8 @@
     "k": "いいよお",
     "volume": 0.5,
     "label": "いいよぉ",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 58
   },
   {
     "id": "iiyoo",
@@ -477,7 +536,8 @@
     "k": "いいよお",
     "volume": 0.5,
     "label": "いいよぉ2",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 59
   },
   {
     "id": "iiyon",
@@ -485,7 +545,8 @@
     "k": "いいよん",
     "volume": 0.5,
     "label": "いいよ～ん",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 60
   },
   {
     "id": "iiyon2",
@@ -493,7 +554,8 @@
     "k": "いいよん",
     "volume": 0.3,
     "label": "いいよ～ん2",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 61
   },
   {
     "id": "iiwake",
@@ -501,7 +563,8 @@
     "k": "いいわけしていいわけ",
     "volume": 0.3,
     "label": "言い訳していいわけ？",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 62
   },
   {
     "id": "yeah",
@@ -509,7 +572,8 @@
     "k": "いえい",
     "volume": 0.5,
     "label": "Yeah.",
-    "className": "その他"
+    "className": "その他",
+    "serial": 63
   },
   {
     "id": "yes",
@@ -517,7 +581,8 @@
     "k": "いえす",
     "volume": 0.5,
     "label": "Yes!",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 64
   },
   {
     "id": "ikishiteru",
@@ -525,7 +590,8 @@
     "k": "いきしてる",
     "volume": 0.7,
     "label": "息してる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 65
   },
   {
     "id": "ikimasuwayo",
@@ -533,7 +599,8 @@
     "k": "いきますわよ",
     "volume": 0.5,
     "label": "いきますわよ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 66
   },
   {
     "id": "ikuzo",
@@ -541,7 +608,8 @@
     "k": "いくぞ",
     "volume": 0.5,
     "label": "いくぞー",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 67
   },
   {
     "id": "ikee",
@@ -549,7 +617,8 @@
     "k": "いけえ",
     "volume": 0.9,
     "label": "いけぇー",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 68
   },
   {
     "id": "ijyou",
@@ -557,7 +626,8 @@
     "k": "いじよう",
     "volume": 0.5,
     "label": "以上！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 69
   },
   {
     "id": "ijyoudesu",
@@ -565,7 +635,8 @@
     "k": "いじようです",
     "volume": 0.5,
     "label": "以上です！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 70
   },
   {
     "id": "123456",
@@ -573,7 +644,8 @@
     "k": "いちにさんしごろく",
     "volume": 0.8,
     "label": "123456",
-    "className": "その他"
+    "className": "その他",
+    "serial": 71
   },
   {
     "id": "12345678910hai",
@@ -581,7 +653,8 @@
     "k": "いちにさんしごろくななはちきゆうじゆうはい",
     "volume": 0.4,
     "label": "1、2、3、4、5、6、7、8、9、10、はい！",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 72
   },
   {
     "id": "ichaicha",
@@ -589,7 +662,8 @@
     "k": "いちやいちやしよう",
     "volume": 0.5,
     "label": "イチャイチャしよう",
-    "className": "その他"
+    "className": "その他",
+    "serial": 73
   },
   {
     "id": "itsukayaru",
@@ -597,7 +671,8 @@
     "k": "いつかやるからよお",
     "volume": 0.6,
     "label": "いつかやるからよぉ(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 74
   },
   {
     "id": "isshoiki",
@@ -605,7 +680,8 @@
     "k": "いつしよういきするな",
     "volume": 0.5,
     "label": "一生息するな",
-    "className": "命令"
+    "className": "命令",
+    "serial": 75
   },
   {
     "id": "isshoyate",
@@ -613,7 +689,8 @@
     "k": "いつしよやて",
     "volume": 0.8,
     "label": "いっしょやて",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 76
   },
   {
     "id": "ittekimasu",
@@ -621,7 +698,8 @@
     "k": "いつてきます",
     "volume": 0.5,
     "label": "行ってきます～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 77
   },
   {
     "id": "itsumowa",
@@ -629,7 +707,8 @@
     "k": "いつもはこんなことしてないのほんとなの",
     "volume": 0.5,
     "label": "いつもはこんなことしてないの、ホントなの",
-    "className": "否定"
+    "className": "否定",
+    "serial": 78
   },
   {
     "id": "inuyama",
@@ -637,7 +716,8 @@
     "k": "いぬやまたまきになつてた",
     "volume": 0.5,
     "label": "犬山たまきになってたー",
-    "className": "その他"
+    "className": "その他",
+    "serial": 79
   },
   {
     "id": "ineeyonaa",
@@ -645,7 +725,8 @@
     "k": "いねえよなあ",
     "volume": 0.5,
     "label": "いねぇよなぁ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 80
   },
   {
     "id": "ima",
@@ -653,7 +734,8 @@
     "k": "いま",
     "volume": 0.8,
     "label": "今！",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 81
   },
   {
     "id": "iyaiya",
@@ -661,7 +743,8 @@
     "k": "いやいやいやいや",
     "volume": 1.0,
     "label": "いやいやいやいや",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 82
   },
   {
     "id": "iyashirankedo",
@@ -669,7 +752,8 @@
     "k": "いやしらんけど",
     "volume": 0.5,
     "label": "いや知らんけど",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 83
   },
   {
     "id": "iyazenzen",
@@ -677,7 +761,8 @@
     "k": "いやぜんぜん",
     "volume": 0.8,
     "label": "いや、全然？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 84
   },
   {
     "id": "yayayaya",
@@ -685,7 +770,8 @@
     "k": "いやややや",
     "volume": 0.25,
     "label": "いやややや",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 85
   },
   {
     "id": "iraira",
@@ -693,7 +779,8 @@
     "k": "いらいら",
     "volume": 0.7,
     "label": "イライラw",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 86
   },
   {
     "id": "irairashinaide",
@@ -701,7 +788,8 @@
     "k": "いらいらしないで",
     "volume": 0.7,
     "label": "イライラしないで",
-    "className": "命令"
+    "className": "命令",
+    "serial": 87
   },
   {
     "id": "illustratorui",
@@ -709,7 +797,8 @@
     "k": "いらすとれたのしぐれういです",
     "volume": 0.9,
     "label": "イラストレーターのしぐれういで～す",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 88
   },
   {
     "id": "illust",
@@ -717,7 +806,8 @@
     "k": "いらすとれたのしぐれういともうします",
     "volume": 0.5,
     "label": "イラストレーターのしぐれういと申しま～す",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 89
   },
   {
     "id": "irashai",
@@ -725,7 +815,8 @@
     "k": "いらつしやいませ",
     "volume": 0.5,
     "label": "いらっしゃいませー",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 90
   },
   {
     "id": "iruwakeneedaro",
@@ -733,7 +824,8 @@
     "k": "いるわけねえだろ",
     "volume": 0.5,
     "label": "いるわけねぇだろ！",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 91
   },
   {
     "id": "u2",
@@ -741,7 +833,8 @@
     "k": "う",
     "volume": 0.2,
     "label": "う～～～～",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 92
   },
   {
     "id": "uikorasho",
@@ -749,7 +842,8 @@
     "k": "ういこらしよ",
     "volume": 0.2,
     "label": "ういこらしょ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 93
   },
   {
     "id": "uisa",
@@ -757,7 +851,8 @@
     "k": "ういさあ",
     "volume": 0.5,
     "label": "ういさぁ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 94
   },
   {
     "id": "uihasukijya",
@@ -765,7 +860,8 @@
     "k": "ういはすきじやないよ",
     "volume": 0.5,
     "label": "ういは好きじゃないよ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 95
   },
   {
     "id": "uibeam",
@@ -773,7 +869,8 @@
     "k": "ういびむ",
     "volume": 1.0,
     "label": "ういビーム(低)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 96
   },
   {
     "id": "uibeam_high",
@@ -781,7 +878,8 @@
     "k": "ういびむ",
     "volume": 0.6,
     "label": "ういビーム(高出力)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 97
   },
   {
     "id": "uibeam_w",
@@ -789,7 +887,8 @@
     "k": "ういびむ",
     "volume": 1.0,
     "label": "ういビームw",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 98
   },
   {
     "id": "uibeamuttenjya",
@@ -797,7 +896,8 @@
     "k": "ういびむうつてんじやねえ",
     "volume": 0.5,
     "label": "ういビーム撃ってんじゃねぇ！",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 99
   },
   {
     "id": "uibeam_gen",
@@ -805,7 +905,8 @@
     "k": "ういびむじえねりつく",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック1)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 100
   },
   {
     "id": "uibeam_gen2",
@@ -813,7 +914,8 @@
     "k": "ういびむじえねりつく",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック2)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 101
   },
   {
     "id": "uibeam_gen3",
@@ -821,7 +923,8 @@
     "k": "ういびむじえねりつく",
     "volume": 0.8,
     "label": "ういビーム(ジェネリック3)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 102
   },
   {
     "id": "uibeam_gen4",
@@ -829,7 +932,8 @@
     "k": "ういびむじえねりつく",
     "volume": 0.4,
     "label": "ういビーム(ジェネリック4)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 103
   },
   {
     "id": "uibeam_gen_azki",
@@ -837,7 +941,8 @@
     "k": "ういびむじえねりつくあずき",
     "volume": 0.3,
     "label": "ういビーム(ジェネリック(AZKi))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 104
   },
   {
     "id": "uibeam_gen_amaui",
@@ -845,7 +950,8 @@
     "k": "ういびむじえねりつくあまうい",
     "volume": 0.3,
     "label": "ういビーム(ジェネリック(天羽衣))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 105
   },
   {
     "id": "uibeam_gen_kanata",
@@ -853,7 +959,8 @@
     "k": "ういびむじえねりつくあまねかなた",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック(天音かなた))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 106
   },
   {
     "id": "uibeam_gen_subaru2",
@@ -861,7 +968,8 @@
     "k": "ういびむじえねりつくおおぞらすばる",
     "volume": 0.6,
     "label": "ういビーム(ジェネリック(大空スバル))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 107
   },
   {
     "id": "uibeam_gen_kanade",
@@ -869,7 +977,8 @@
     "k": "ういびむじえねりつくおとのせかなで",
     "volume": 0.3,
     "label": "ういビーム(ジェネリック(音乃瀬奏))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 108
   },
   {
     "id": "uibeam_gen_skmt",
@@ -877,7 +986,8 @@
     "k": "ういびむじえねりつくさかまたくろえ",
     "volume": 0.4,
     "label": "ういビーム(ジェネリック(沙花叉クロヱ))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 109
   },
   {
     "id": "uibeam_gen_raden",
@@ -885,7 +995,8 @@
     "k": "ういびむじえねりつくじゆうふうていらでん",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック(儒烏風亭らでん))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 110
   },
   {
     "id": "uibeam_gen_raden2",
@@ -893,7 +1004,8 @@
     "k": "ういびむじえねりつくじゆうふうていらでん",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック(儒烏風亭らでん)2)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 111
   },
   {
     "id": "uibeam_gen_kiara",
@@ -901,7 +1013,8 @@
     "k": "ういびむじえねりつくたかなしきあら",
     "volume": 0.7,
     "label": "ういビーム(ジェネリック(小鳥遊キアラ))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 112
   },
   {
     "id": "uibeam_gen_mtr",
@@ -909,7 +1022,8 @@
     "k": "ういびむじえねりつくなついろまつり",
     "volume": 0.2,
     "label": "ういビーム(ジェネリック(夏色まつり))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 113
   },
   {
     "id": "uibeam_gen_koyori2",
@@ -917,7 +1031,8 @@
     "k": "ういびむじえねりつくはくいこより",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック(博衣こより))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 114
   },
   {
     "id": "uibeam_gen_koyori4",
@@ -925,7 +1040,8 @@
     "k": "ういびむじえねりつくはくいこより",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック(博衣こより)2)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 115
   },
   {
     "id": "uibeam_gen_ao",
@@ -933,14 +1049,16 @@
     "k": "ういびむじえねりつくひおどしあお",
     "volume": 0.75,
     "label": "ういビーム(ジェネリック(火威青))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 116
   },
   {
     "id": "uibeam_gen_fuwamoco",
     "a": "A",
     "k": "ういびむじえねりつくふわもこ",
     "volume": 0.5,
-    "label": "ういビーム(ジェネリック(FUWAMOCO))"
+    "label": "ういビーム(ジェネリック(FUWAMOCO))",
+    "serial": 117
   },
   {
     "id": "uibeam_gen_marine1",
@@ -948,7 +1066,8 @@
     "k": "ういびむじえねりつくほうしようまりん",
     "volume": 0.5,
     "label": "ういビーム(ジェネリック(宝鐘マリン))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 118
   },
   {
     "id": "uibeam_gen_marine2",
@@ -956,7 +1075,8 @@
     "k": "ういびむじえねりつくほうしようまりん",
     "volume": 0.2,
     "label": "ういビーム(ジェネリック(宝鐘マリン)2)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 119
   },
   {
     "id": "uibeam_gen_marine3",
@@ -964,7 +1084,8 @@
     "k": "ういびむじえねりつくほうしようまりん",
     "volume": 0.3,
     "label": "ういビーム(ジェネリック(宝鐘マリン)3)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 120
   },
   {
     "id": "uibeam_gen_yan",
@@ -972,7 +1093,8 @@
     "k": "ういびむじえねりつくやんなり",
     "volume": 0.75,
     "label": "ういビーム(ジェネリック(ヤン・ナリ))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 121
   },
   {
     "id": "uibeam_gen_choko",
@@ -980,7 +1102,8 @@
     "k": "ういびむじえねりつくゆづきちよこ",
     "volume": 0.2,
     "label": "ういビーム(ジェネリック(癒月ちょこ))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 122
   },
   {
     "id": "uibeam_gen_roboko1",
@@ -988,7 +1111,8 @@
     "k": "ういびむじえねりつくろぼこさん",
     "volume": 0.2,
     "label": "ういビーム(ジェネリック(ロボ子さん))",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 123
   },
   {
     "id": "uibeamdakorose",
@@ -996,7 +1120,8 @@
     "k": "ういびむだあああああころせええ",
     "volume": 0.8,
     "label": "ういビームだぁぁぁぁぁ〇せぇぇ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 124
   },
   {
     "id": "ukeru",
@@ -1004,7 +1129,8 @@
     "k": "うける",
     "volume": 0.6,
     "label": "ウケる",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 125
   },
   {
     "id": "usotuke",
@@ -1012,7 +1138,8 @@
     "k": "うそつけえ",
     "volume": 0.25,
     "label": "嘘つけぇ",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 126
   },
   {
     "id": "usooiuna",
@@ -1020,7 +1147,8 @@
     "k": "うそをいうな",
     "volume": 0.5,
     "label": "嘘を言うな！",
-    "className": "否定"
+    "className": "否定",
+    "serial": 127
   },
   {
     "id": "utaimasen",
@@ -1028,7 +1156,8 @@
     "k": "うたいません",
     "volume": 0.5,
     "label": "歌いません",
-    "className": "否定"
+    "className": "否定",
+    "serial": 128
   },
   {
     "id": "umaiyo",
@@ -1036,7 +1165,8 @@
     "k": "うまいよ",
     "volume": 1.0,
     "label": "うまいよ！",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 129
   },
   {
     "id": "umapyoi_nrm",
@@ -1044,7 +1174,8 @@
     "k": "うまぴょい",
     "volume": 0.5,
     "label": "うまぴょい×2",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 130
   },
   {
     "id": "umapyoi",
@@ -1052,7 +1183,8 @@
     "k": "うまぴょい",
     "volume": 0.5,
     "label": "うまぴょい×2(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 131
   },
   {
     "id": "umeume",
@@ -1060,7 +1192,8 @@
     "k": "うめうめ",
     "volume": 0.2,
     "label": "うめうめ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 132
   },
   {
     "id": "umeume2",
@@ -1068,7 +1201,8 @@
     "k": "うめうめ",
     "volume": 0.15,
     "label": "うめうめ2",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 133
   },
   {
     "id": "urusa",
@@ -1076,7 +1210,8 @@
     "k": "うるさつ",
     "volume": 0.25,
     "label": "うるさっ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 134
   },
   {
     "id": "uruse2",
@@ -1084,7 +1219,8 @@
     "k": "うるせ",
     "volume": 0.8,
     "label": "うるせ～",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 135
   },
   {
     "id": "uruseena",
@@ -1092,7 +1228,8 @@
     "k": "うるせえな",
     "volume": 0.2,
     "label": "うるせぇな",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 136
   },
   {
     "id": "urusena",
@@ -1100,7 +1237,8 @@
     "k": "うるせな",
     "volume": 0.5,
     "label": "うるせーなー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 137
   },
   {
     "id": "uruse",
@@ -1108,7 +1246,8 @@
     "k": "うるつせ",
     "volume": 0.5,
     "label": "うるっせ～www",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 138
   },
   {
     "id": "uwaaa",
@@ -1116,7 +1255,8 @@
     "k": "うわあああ",
     "volume": 0.5,
     "label": "うわぁぁぁ(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 139
   },
   {
     "id": "uwaaaai",
@@ -1124,7 +1264,8 @@
     "k": "うわい",
     "volume": 0.8,
     "label": "う゛わ゛ーーーい",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 140
   },
   {
     "id": "uwaaai",
@@ -1132,7 +1273,8 @@
     "k": "うわい",
     "volume": 0.9,
     "label": "うわーい",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 141
   },
   {
     "id": "uwaanyan",
@@ -1140,7 +1282,8 @@
     "k": "うわんにやんにやんにやんにやんああああ",
     "volume": 0.5,
     "label": "うわ～ん にゃんにゃんにゃんにゃん あぁぁぁ～",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 142
   },
   {
     "id": "unn",
@@ -1148,7 +1291,8 @@
     "k": "うん",
     "volume": 0.6,
     "label": "うん",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 143
   },
   {
     "id": "ununun",
@@ -1156,7 +1300,8 @@
     "k": "うんうん",
     "volume": 0.6,
     "label": "うんうんうん",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 144
   },
   {
     "id": "e",
@@ -1164,7 +1309,8 @@
     "k": "え",
     "volume": 0.5,
     "label": "え゛？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 145
   },
   {
     "id": "e2",
@@ -1172,7 +1318,8 @@
     "k": "え",
     "volume": 0.4,
     "label": "え！？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 146
   },
   {
     "id": "eee2",
@@ -1180,7 +1327,8 @@
     "k": "え",
     "volume": 0.5,
     "label": "えーーー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 147
   },
   {
     "id": "yoisho",
@@ -1188,7 +1336,8 @@
     "k": "えいしよ",
     "volume": 0.5,
     "label": "えいしょ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 148
   },
   {
     "id": "itsuburi",
@@ -1196,7 +1345,8 @@
     "k": "えいつぶり",
     "volume": 0.5,
     "label": "え、いつぶり？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 149
   },
   {
     "id": "eiminshite",
@@ -1204,7 +1354,8 @@
     "k": "えいみんして",
     "volume": 0.8,
     "label": "永眠して～",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 150
   },
   {
     "id": "eee",
@@ -1212,7 +1363,8 @@
     "k": "えええ",
     "volume": 0.5,
     "label": "えええー？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 151
   },
   {
     "id": "eenyade",
@@ -1220,7 +1372,8 @@
     "k": "ええんやで",
     "volume": 0.8,
     "label": "ええんやで",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 152
   },
   {
     "id": "ekattekureru",
@@ -1228,7 +1381,8 @@
     "k": "えかつてくれるう",
     "volume": 0.8,
     "label": "え、買ってくれるぅ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 153
   },
   {
     "id": "ekawaii",
@@ -1236,7 +1390,8 @@
     "k": "えかわいい",
     "volume": 1.0,
     "label": "え かわいい",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 154
   },
   {
     "id": "echottomatteyo",
@@ -1244,7 +1399,8 @@
     "k": "えちよつとまつてよ",
     "volume": 0.25,
     "label": "え、ちょっと待ってよ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 155
   },
   {
     "id": "eto",
@@ -1252,7 +1408,8 @@
     "k": "えつと",
     "volume": 0.8,
     "label": "えーっと(幼)",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 156
   },
   {
     "id": "eto2",
@@ -1260,7 +1417,8 @@
     "k": "えつと",
     "volume": 0.5,
     "label": "えーっと？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 157
   },
   {
     "id": "eto4",
@@ -1268,7 +1426,8 @@
     "k": "えつと",
     "volume": 0.5,
     "label": "えーーっと",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 158
   },
   {
     "id": "eeeeeeeeto",
@@ -1276,7 +1435,8 @@
     "k": "えつと",
     "volume": 0.8,
     "label": "えーーーーーーーーーーっと",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 159
   },
   {
     "id": "eto3nen",
@@ -1284,7 +1444,8 @@
     "k": "えとしようがくさんねんせいです",
     "volume": 0.5,
     "label": "えーと、小学三年生です",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 160
   },
   {
     "id": "enante",
@@ -1292,7 +1453,8 @@
     "k": "えなんて",
     "volume": 0.2,
     "label": "え？なんて？(寝起き)",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 161
   },
   {
     "id": "hayakuwakarena",
@@ -1300,7 +1462,8 @@
     "k": "えはやくわかれな",
     "volume": 0.7,
     "label": "え、早く別れな？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 162
   },
   {
     "id": "ffgai",
@@ -1308,7 +1471,8 @@
     "k": "えふえふがいからしつれいするぞ",
     "volume": 0.5,
     "label": "FF外から失礼するゾ～",
-    "className": "その他"
+    "className": "その他",
+    "serial": 163
   },
   {
     "id": "ehonto",
@@ -1316,7 +1480,8 @@
     "k": "えほんとお",
     "volume": 0.5,
     "label": "え゛ほんとぉ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 164
   },
   {
     "id": "emecchaiijyan",
@@ -1324,7 +1489,8 @@
     "k": "えめつちやいいじやん",
     "volume": 0.5,
     "label": "え、めっちゃいいじゃん!x2",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 165
   },
   {
     "id": "eyada",
@@ -1332,7 +1498,8 @@
     "k": "えやだやだやだやだ",
     "volume": 0.7,
     "label": "え、やだやだやだやだ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 166
   },
   {
     "id": "eraaai",
@@ -1340,7 +1507,8 @@
     "k": "えらい",
     "volume": 0.7,
     "label": "えらーーーーい",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 167
   },
   {
     "id": "erai",
@@ -1348,7 +1516,8 @@
     "k": "えらい",
     "volume": 1.0,
     "label": "えらい！",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 168
   },
   {
     "id": "ooo",
@@ -1356,7 +1525,8 @@
     "k": "お",
     "volume": 0.2,
     "label": "おー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 169
   },
   {
     "id": "oi",
@@ -1364,7 +1534,8 @@
     "k": "おい",
     "volume": 0.25,
     "label": "オイ",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 170
   },
   {
     "id": "oi2",
@@ -1372,7 +1543,8 @@
     "k": "おい",
     "volume": 0.25,
     "label": "オイ2",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 171
   },
   {
     "id": "oioioioi",
@@ -1380,7 +1552,8 @@
     "k": "おいおいおいおい",
     "volume": 0.25,
     "label": "オイオイオイオイ",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 172
   },
   {
     "id": "oishiyo",
@@ -1388,7 +1561,8 @@
     "k": "おいしいよお",
     "volume": 0.7,
     "label": "おいしいよぉ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 173
   },
   {
     "id": "oishoi",
@@ -1396,7 +1570,8 @@
     "k": "おいしよいぐわあ",
     "volume": 0.8,
     "label": "おいしょい、ぐわぁ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 174
   },
   {
     "id": "oidebu",
@@ -1404,7 +1579,8 @@
     "k": "おいでぶ",
     "volume": 0.5,
     "label": "おいデブ！",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 175
   },
   {
     "id": "oiyakisoba",
@@ -1412,7 +1588,8 @@
     "k": "おいやきそばぱんかつてこいよ",
     "volume": 0.6,
     "label": "おい！焼きそばパン買ってこいよ！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 176
   },
   {
     "id": "oiyannoka",
@@ -1420,7 +1597,8 @@
     "k": "おいやんのか",
     "volume": 0.5,
     "label": "おい、やんのか",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 177
   },
   {
     "id": "outano",
@@ -1428,7 +1606,8 @@
     "k": "おうたのはつぴようかいをしちやうよ",
     "volume": 0.5,
     "label": "お歌の発表会をしちゃうよ～",
-    "className": "その他"
+    "className": "その他",
+    "serial": 178
   },
   {
     "id": "oo",
@@ -1436,7 +1615,8 @@
     "k": "おお",
     "volume": 0.7,
     "label": "おお？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 179
   },
   {
     "id": "okaasan",
@@ -1444,7 +1624,8 @@
     "k": "おかあさんだとおもつてくれる",
     "volume": 0.8,
     "label": "お母さんだと思ってくれる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 180
   },
   {
     "id": "okashiina",
@@ -1452,7 +1633,8 @@
     "k": "おかしいなあ",
     "volume": 0.8,
     "label": "おかしいなぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 181
   },
   {
     "id": "okiro",
@@ -1460,7 +1642,8 @@
     "k": "おきろ",
     "volume": 0.5,
     "label": "起きろ～ 起きろ×10",
-    "className": "命令"
+    "className": "命令",
+    "serial": 182
   },
   {
     "id": "ok",
@@ -1468,7 +1651,8 @@
     "k": "おけ",
     "volume": 0.7,
     "label": "おけー(OK)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 183
   },
   {
     "id": "ok2",
@@ -1476,7 +1660,8 @@
     "k": "おけい",
     "volume": 1.0,
     "label": "おけーい(OK)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 184
   },
   {
     "id": "otsuui",
@@ -1484,7 +1669,8 @@
     "k": "おつうい",
     "volume": 0.7,
     "label": "おつうい",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 185
   },
   {
     "id": "otsukaresama",
@@ -1492,7 +1678,8 @@
     "k": "おつかれさまでした",
     "volume": 0.5,
     "label": "おつかれさまでした！",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 186
   },
   {
     "id": "okkorasho",
@@ -1500,7 +1687,8 @@
     "k": "おつこらしよ",
     "volume": 1.0,
     "label": "おっこらしょ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 187
   },
   {
     "id": "otomodachi",
@@ -1508,7 +1696,8 @@
     "k": "おともだちのみんな",
     "volume": 0.5,
     "label": "おともだちのみんな～",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 188
   },
   {
     "id": "onegai",
@@ -1516,7 +1705,8 @@
     "k": "おねがい",
     "volume": 0.9,
     "label": "おねが～い",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 189
   },
   {
     "id": "onegaishimasu",
@@ -1524,7 +1714,8 @@
     "k": "おねがいします",
     "volume": 0.5,
     "label": "お願いしま～す",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 190
   },
   {
     "id": "ohisashiburi",
@@ -1532,7 +1723,8 @@
     "k": "おひさしぶりです",
     "volume": 0.25,
     "label": "お久しぶりです",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 191
   },
   {
     "id": "ohisashiburi2",
@@ -1540,7 +1732,8 @@
     "k": "おひさしぶりですう",
     "volume": 0.25,
     "label": "お久しぶりですぅ",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 192
   },
   {
     "id": "omaedaredayo",
@@ -1548,7 +1741,8 @@
     "k": "おまえだれだよ",
     "volume": 0.7,
     "label": "お前誰だよ！w",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 193
   },
   {
     "id": "omaenaraikeru",
@@ -1556,7 +1750,8 @@
     "k": "おまえならいけるよ",
     "volume": 0.5,
     "label": "お前ならイケるよ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 194
   },
   {
     "id": "omaeniashita",
@@ -1564,7 +1759,8 @@
     "k": "おまえにあしたがあるとおもうな",
     "volume": 0.5,
     "label": "おまえに明日があると思うな",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 195
   },
   {
     "id": "omaehaijyou",
@@ -1572,7 +1768,8 @@
     "k": "おまえはいじようしやです",
     "volume": 0.5,
     "label": "お前は異常者です",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 196
   },
   {
     "id": "isshoderuna",
@@ -1580,7 +1777,8 @@
     "k": "おまえはいつしよういえからでるな",
     "volume": 1.0,
     "label": "お前は一生家から出るな",
-    "className": "命令"
+    "className": "命令",
+    "serial": 197
   },
   {
     "id": "omaehashinde",
@@ -1588,7 +1786,8 @@
     "k": "おまえはしんでしまえ",
     "volume": 0.7,
     "label": "お前は〇んでしまえ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 198
   },
   {
     "id": "omaehadame",
@@ -1596,7 +1795,8 @@
     "k": "おまえはだめだ",
     "volume": 0.5,
     "label": "お前はダメだ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 199
   },
   {
     "id": "saikou",
@@ -1604,7 +1804,8 @@
     "k": "おまえらさいこうだぜ",
     "volume": 0.8,
     "label": "お前ら、最高だぜ～",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 200
   },
   {
     "id": "omaeradaisuki",
@@ -1612,7 +1813,8 @@
     "k": "おまえらだいすきだぞ",
     "volume": 0.7,
     "label": "お前ら大好きだぞ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 201
   },
   {
     "id": "mamadewanai",
@@ -1620,7 +1822,8 @@
     "k": "おまえらのままではない",
     "volume": 0.5,
     "label": "おまえらのママではない",
-    "className": "否定"
+    "className": "否定",
+    "serial": 202
   },
   {
     "id": "omaeo",
@@ -1628,7 +1831,8 @@
     "k": "おまえをちにそめてやる",
     "volume": 0.5,
     "label": "お前を血に染めてやる！",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 203
   },
   {
     "id": "omataseitashi",
@@ -1636,7 +1840,8 @@
     "k": "おまたせいたしました",
     "volume": 0.5,
     "label": "お待たせいたしました～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 204
   },
   {
     "id": "omoiagaruna",
@@ -1644,7 +1849,8 @@
     "k": "おもいあがるな",
     "volume": 0.5,
     "label": "思いあがるな",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 205
   },
   {
     "id": "oraora",
@@ -1652,7 +1858,8 @@
     "k": "おらおらおらおら",
     "volume": 0.5,
     "label": "オラオラオラオラw",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 206
   },
   {
     "id": "oretachiga",
@@ -1660,7 +1867,8 @@
     "k": "おれがおれたちがしぐれういだ",
     "volume": 0.6,
     "label": "俺が、俺たちがしぐれういだ！",
-    "className": "その他"
+    "className": "その他",
+    "serial": 207
   },
   {
     "id": "orekuntokekkon",
@@ -1668,7 +1876,8 @@
     "k": "おれくんとのけつこんだけはぜつたいにないですね",
     "volume": 0.5,
     "label": "俺くんとの結婚だけは絶対に無いですね",
-    "className": "否定"
+    "className": "否定",
+    "serial": 208
   },
   {
     "id": "oretachinokoto",
@@ -1676,7 +1885,8 @@
     "k": "おれたちのことすき",
     "volume": 0.7,
     "label": "俺たちの事好き？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 209
   },
   {
     "id": "oredayo",
@@ -1684,7 +1894,8 @@
     "k": "おれだよおれ",
     "volume": 0.25,
     "label": "オレだよ、オレ",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 210
   },
   {
     "id": "onryobalance",
@@ -1692,7 +1903,8 @@
     "k": "おんりようのばらんすどうですか",
     "volume": 0.5,
     "label": "音量のバランスどうですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 211
   },
   {
     "id": "kaeshimasen",
@@ -1700,7 +1912,8 @@
     "k": "かえしません",
     "volume": 1.0,
     "label": "返しません",
-    "className": "否定"
+    "className": "否定",
+    "serial": 212
   },
   {
     "id": "kaerina",
@@ -1708,7 +1921,8 @@
     "k": "かえりな",
     "volume": 0.2,
     "label": "帰りな！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 213
   },
   {
     "id": "kaere",
@@ -1716,7 +1930,8 @@
     "k": "かえれ",
     "volume": 0.5,
     "label": "帰れ",
-    "className": "命令"
+    "className": "命令",
+    "serial": 214
   },
   {
     "id": "kaere2",
@@ -1724,7 +1939,8 @@
     "k": "かえれ",
     "volume": 0.5,
     "label": "帰れ！(高)",
-    "className": "命令"
+    "className": "命令",
+    "serial": 215
   },
   {
     "id": "katta",
@@ -1732,7 +1948,8 @@
     "k": "かつた",
     "volume": 1.0,
     "label": "勝った！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 216
   },
   {
     "id": "kateruzo",
@@ -1740,7 +1957,8 @@
     "k": "かてるぞお",
     "volume": 0.9,
     "label": "勝てるぞぉ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 217
   },
   {
     "id": "kabadi",
@@ -1748,7 +1966,8 @@
     "k": "かばでいかばでい",
     "volume": 0.25,
     "label": "カバディカバディ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 218
   },
   {
     "id": "kawaii",
@@ -1756,7 +1975,8 @@
     "k": "かわいい",
     "volume": 1.0,
     "label": "かわいい～",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 219
   },
   {
     "id": "kawaii2",
@@ -1764,7 +1984,8 @@
     "k": "かわいい",
     "volume": 0.8,
     "label": "かわいい2",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 220
   },
   {
     "id": "kawaii3",
@@ -1772,7 +1993,8 @@
     "k": "かわいい",
     "volume": 0.7,
     "label": "かわいい(太)",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 221
   },
   {
     "id": "kawaiigaseigi",
@@ -1780,7 +2002,8 @@
     "k": "かわいいがせいぎよ",
     "volume": 0.15,
     "label": "可愛いが正義よ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 222
   },
   {
     "id": "kawaiine5",
@@ -1788,7 +2011,8 @@
     "k": "かわいいね",
     "volume": 0.5,
     "label": "かわいいね！",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 223
   },
   {
     "id": "kawaiine6",
@@ -1796,7 +2020,8 @@
     "k": "かわいいね",
     "volume": 0.5,
     "label": "かわいいね！2",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 224
   },
   {
     "id": "kawaiine2",
@@ -1804,7 +2029,8 @@
     "k": "かわいいねえ",
     "volume": 0.5,
     "label": "かわいいねぇ2",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 225
   },
   {
     "id": "kawaiine3",
@@ -1812,7 +2038,8 @@
     "k": "かわいいねえ",
     "volume": 0.5,
     "label": "かわいいねぇ3",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 226
   },
   {
     "id": "kawaiindawa",
@@ -1820,7 +2047,8 @@
     "k": "かわいいんだわ",
     "volume": 0.6,
     "label": "かわいいんだわ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 227
   },
   {
     "id": "kawaiinee",
@@ -1828,7 +2056,8 @@
     "k": "かわいねえ",
     "volume": 1.0,
     "label": "かわいいねぇ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 228
   },
   {
     "id": "kangaetenai",
@@ -1836,7 +2065,8 @@
     "k": "かんがえてないですね",
     "volume": 0.2,
     "label": "考えてない...ですね",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 229
   },
   {
     "id": "kangaenagara",
@@ -1844,7 +2074,8 @@
     "k": "かんがえながらやるんだよ",
     "volume": 0.5,
     "label": "考えながらやるんだよ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 230
   },
   {
     "id": "kanbenshitekure",
@@ -1852,7 +2083,8 @@
     "k": "かんべんしてくれよお",
     "volume": 0.8,
     "label": "勘弁してくれよぉ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 231
   },
   {
     "id": "ganbare2",
@@ -1860,7 +2092,8 @@
     "k": "がんばれ",
     "volume": 0.5,
     "label": "がんばれー！",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 232
   },
   {
     "id": "ganbare3",
@@ -1868,7 +2101,8 @@
     "k": "がんばれ",
     "volume": 0.5,
     "label": "がんばれ×7",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 233
   },
   {
     "id": "ganbare",
@@ -1876,7 +2110,8 @@
     "k": "がんばれやればできる",
     "volume": 0.5,
     "label": "がんばれー！やればできる！",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 234
   },
   {
     "id": "kiitekuremasuka",
@@ -1884,7 +2119,8 @@
     "k": "きいてくれますかあ",
     "volume": 0.7,
     "label": "聞いてくれますかぁ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 235
   },
   {
     "id": "kiiteru",
@@ -1892,7 +2128,8 @@
     "k": "きいてる",
     "volume": 0.5,
     "label": "聞いてる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 236
   },
   {
     "id": "kiiteru2",
@@ -1900,7 +2137,8 @@
     "k": "きいてる",
     "volume": 0.5,
     "label": "聞いてる？(高)",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 237
   },
   {
     "id": "kikanaiga",
@@ -1908,7 +2146,8 @@
     "k": "きかないが",
     "volume": 0.5,
     "label": "効かないが？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 238
   },
   {
     "id": "kigamuitara",
@@ -1916,7 +2155,8 @@
     "k": "きがむいたらやります",
     "volume": 0.5,
     "label": "気が向いたらやります",
-    "className": "否定"
+    "className": "否定",
+    "serial": 239
   },
   {
     "id": "kikoeteorimasude2",
@@ -1924,7 +2164,8 @@
     "k": "きこえておりますでしようか",
     "volume": 0.5,
     "label": "聞こえておりますでしょうか～？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 240
   },
   {
     "id": "kikoetemasuka",
@@ -1932,7 +2173,8 @@
     "k": "きこえてますかあ",
     "volume": 1.0,
     "label": "聞こえてますかぁ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 241
   },
   {
     "id": "kitanaikotoba",
@@ -1940,7 +2182,8 @@
     "k": "きたないことばはつかつちやいけないんですよ",
     "volume": 0.7,
     "label": "汚い言葉は使っちゃいけないんですよ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 242
   },
   {
     "id": "kichitteru",
@@ -1948,7 +2191,8 @@
     "k": "きちつてる",
     "volume": 1.0,
     "label": "気 散ってる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 243
   },
   {
     "id": "kittsu1",
@@ -1956,7 +2200,8 @@
     "k": "きつつ",
     "volume": 1.0,
     "label": "きっつ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 244
   },
   {
     "id": "kittsu2",
@@ -1964,7 +2209,8 @@
     "k": "きつつつ",
     "volume": 1.0,
     "label": "きっっつ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 245
   },
   {
     "id": "kinoko",
@@ -1972,7 +2218,8 @@
     "k": "きのこのさとはちよつと",
     "volume": 0.15,
     "label": "きのこの里はちょっと…",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 246
   },
   {
     "id": "kibou",
@@ -1980,7 +2227,8 @@
     "k": "きぼうみえてますからねわたしいま",
     "volume": 0.5,
     "label": "希望見えてますからね、私 今",
-    "className": "その他"
+    "className": "その他",
+    "serial": 247
   },
   {
     "id": "kimitachi",
@@ -1988,7 +2236,8 @@
     "k": "きみたち",
     "volume": 0.5,
     "label": "君たち～",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 248
   },
   {
     "id": "kimitachi2",
@@ -1996,7 +2245,8 @@
     "k": "きみたちい",
     "volume": 0.5,
     "label": "君たちぃ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 249
   },
   {
     "id": "kimoo",
@@ -2004,7 +2254,8 @@
     "k": "きも",
     "volume": 1.0,
     "label": "きもーー",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 250
   },
   {
     "id": "kimochiwarui",
@@ -2012,7 +2263,8 @@
     "k": "きもちわるい",
     "volume": 0.5,
     "label": "きもちわる～い",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 251
   },
   {
     "id": "kimochiwaru",
@@ -2020,7 +2272,8 @@
     "k": "きもちわるいです",
     "volume": 1.0,
     "label": "きもちわるいです！",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 252
   },
   {
     "id": "kimochiwaruimina",
@@ -2028,7 +2281,8 @@
     "k": "きもちわるいですねみなさん",
     "volume": 1.0,
     "label": "気持ちわるいですね皆さんwww",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 253
   },
   {
     "id": "kimotiwaru",
@@ -2036,7 +2290,8 @@
     "k": "きもちわるつ",
     "volume": 0.7,
     "label": "気持ちわるっ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 254
   },
   {
     "id": "kyaa",
@@ -2044,7 +2299,8 @@
     "k": "きゃあ",
     "volume": 0.2,
     "label": "きゃあ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 255
   },
   {
     "id": "kyakya",
@@ -2052,7 +2308,8 @@
     "k": "きやつきや",
     "volume": 0.5,
     "label": "キャッキャ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 256
   },
   {
     "id": "kyakya2",
@@ -2060,7 +2317,8 @@
     "k": "きやつきや",
     "volume": 0.9,
     "label": "キャッキャ2",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 257
   },
   {
     "id": "can",
@@ -2068,7 +2326,8 @@
     "k": "きやんこがたけん",
     "volume": 0.5,
     "label": "キャン(小型犬)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 258
   },
   {
     "id": "9saidesu",
@@ -2076,7 +2335,8 @@
     "k": "きゆうさいです",
     "volume": 0.8,
     "label": "９才です",
-    "className": "その他"
+    "className": "その他",
+    "serial": 259
   },
   {
     "id": "kyuuseishu",
@@ -2084,7 +2344,8 @@
     "k": "きゆうせいしゆあらわる",
     "volume": 0.5,
     "label": "救世主現る！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 260
   },
   {
     "id": "kyuuni",
@@ -2092,7 +2353,8 @@
     "k": "きゆうにやるよ",
     "volume": 1.0,
     "label": "急にやるよ(低)",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 261
   },
   {
     "id": "kyuuni2",
@@ -2100,7 +2362,8 @@
     "k": "きゆうにやるよ",
     "volume": 1.0,
     "label": "急にやるよ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 262
   },
   {
     "id": "kyounohaishin",
@@ -2108,7 +2371,8 @@
     "k": "きようのはいしんはここまでにしたいとおもいます",
     "volume": 0.6,
     "label": "今日の配信はここまでにしたいと思います～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 263
   },
   {
     "id": "kyouhakite",
@@ -2116,7 +2380,8 @@
     "k": "きようはきてくれてありがとう",
     "volume": 0.4,
     "label": "今日は来てくれてありがとう！",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 264
   },
   {
     "id": "kyoumina",
@@ -2124,7 +2389,8 @@
     "k": "きようみなつ",
     "volume": 0.5,
     "label": "興味無っ！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 265
   },
   {
     "id": "kyoumoichinichi",
@@ -2132,7 +2398,8 @@
     "k": "きようもいちにちがんばつていきたねえ",
     "volume": 0.3,
     "label": "今日も一日がんばって生きたねぇ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 266
   },
   {
     "id": "kuun",
@@ -2140,7 +2407,8 @@
     "k": "くうううん",
     "volume": 1.0,
     "label": "くぅぅぅん",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 267
   },
   {
     "id": "kushogayo",
@@ -2148,7 +2416,8 @@
     "k": "くしよがよお",
     "volume": 0.5,
     "label": "くしょがよぉ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 268
   },
   {
     "id": "kusoga",
@@ -2156,7 +2425,8 @@
     "k": "くそがあ",
     "volume": 0.5,
     "label": "クソがぁ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 269
   },
   {
     "id": "kusogayo",
@@ -2164,7 +2434,8 @@
     "k": "くそがよお",
     "volume": 0.5,
     "label": "クソがよぉ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 270
   },
   {
     "id": "kudaraneemono",
@@ -2172,7 +2443,8 @@
     "k": "くだらねえものひろつちまつた",
     "volume": 0.5,
     "label": "くだらねぇもの拾っちまった",
-    "className": "その他"
+    "className": "その他",
+    "serial": 271
   },
   {
     "id": "kutsushita2",
@@ -2180,7 +2452,8 @@
     "k": "くつしたなにいろ",
     "volume": 0.25,
     "label": "靴下何色？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 272
   },
   {
     "id": "kubi",
@@ -2188,7 +2461,8 @@
     "k": "くびつてこと",
     "volume": 0.5,
     "label": "クビってコト？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 273
   },
   {
     "id": "kurae",
@@ -2196,7 +2470,8 @@
     "k": "くらえ",
     "volume": 0.8,
     "label": "くらえー",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 274
   },
   {
     "id": "kera",
@@ -2204,7 +2479,8 @@
     "k": "けらけらけらけら",
     "volume": 0.5,
     "label": "ケラケラケラwwww",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 275
   },
   {
     "id": "koushite",
@@ -2212,7 +2488,8 @@
     "k": "こうして",
     "volume": 0.5,
     "label": "こうして",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 276
   },
   {
     "id": "koushitekouda",
@@ -2220,7 +2497,8 @@
     "k": "こうしてこうだ",
     "volume": 0.25,
     "label": "こうしてこうだ！",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 277
   },
   {
     "id": "kokuchi",
@@ -2228,7 +2506,8 @@
     "k": "こくちします",
     "volume": 0.3,
     "label": "告知します！",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 278
   },
   {
     "id": "kokokarademo",
@@ -2236,7 +2515,8 @@
     "k": "ここからでもはいれるほけんがあるんですか",
     "volume": 0.7,
     "label": "ここからでも入れる保険があるんですか！？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 279
   },
   {
     "id": "kokojyanai",
@@ -2244,7 +2524,8 @@
     "k": "ここじやない",
     "volume": 1.0,
     "label": "ここじゃない×３",
-    "className": "その他"
+    "className": "その他",
+    "serial": 280
   },
   {
     "id": "kokodeattaga",
@@ -2252,7 +2533,8 @@
     "k": "ここであつたがひやくねんめ",
     "volume": 0.8,
     "label": "ここで会ったが100年目",
-    "className": "その他"
+    "className": "その他",
+    "serial": 281
   },
   {
     "id": "koowa",
@@ -2260,7 +2542,8 @@
     "k": "こつつわ",
     "volume": 0.7,
     "label": "こっっわ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 282
   },
   {
     "id": "komattana",
@@ -2268,7 +2551,8 @@
     "k": "こまつたな",
     "volume": 0.9,
     "label": "困ったな",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 283
   },
   {
     "id": "komarimasu",
@@ -2276,7 +2560,8 @@
     "k": "こまりますう",
     "volume": 0.5,
     "label": "困りますぅ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 284
   },
   {
     "id": "komentoranare",
@@ -2284,7 +2569,8 @@
     "k": "こめんとらんあれててわろた",
     "volume": 0.5,
     "label": "コメント欄荒れててワロタ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 285
   },
   {
     "id": "commentrankimo",
@@ -2292,7 +2578,8 @@
     "k": "こめんとらんきもちわるつ",
     "volume": 0.4,
     "label": "コメント欄気持ちわるっ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 286
   },
   {
     "id": "commentrankimo2",
@@ -2300,7 +2587,8 @@
     "k": "こめんとらんきもつ",
     "volume": 0.2,
     "label": "コメント欄キモっ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 287
   },
   {
     "id": "korekaramoissho",
@@ -2308,7 +2596,8 @@
     "k": "これからもいつしよにいてくれたらうれしいな",
     "volume": 0.5,
     "label": "これからも一緒にいてくれたら嬉しいな",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 288
   },
   {
     "id": "koredeok",
@@ -2316,7 +2605,8 @@
     "k": "これでおつけだよ",
     "volume": 1.0,
     "label": "これでOKだよ～",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 289
   },
   {
     "id": "korehakatemasu",
@@ -2324,7 +2614,8 @@
     "k": "これはさすがにしぐれういかてます",
     "volume": 0.9,
     "label": "これは、さすがにういしぐれ勝てます",
-    "className": "その他"
+    "className": "その他",
+    "serial": 290
   },
   {
     "id": "korehadesune",
@@ -2332,7 +2623,8 @@
     "k": "これはですね",
     "volume": 1.0,
     "label": "これはですね",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 291
   },
   {
     "id": "korehahidoi",
@@ -2340,7 +2632,8 @@
     "k": "これはひどい",
     "volume": 0.5,
     "label": "これはヒドい",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 292
   },
   {
     "id": "mecchasuki",
@@ -2348,7 +2641,8 @@
     "k": "これめつちやすきやわ",
     "volume": 0.5,
     "label": "これめっちゃ好きやわ～",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 293
   },
   {
     "id": "kowai6",
@@ -2356,7 +2650,8 @@
     "k": "こわい",
     "volume": 0.6,
     "label": "怖いx6",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 294
   },
   {
     "id": "konnajinsei",
@@ -2364,7 +2659,8 @@
     "k": "こんなじんせいでいいのかおまえ",
     "volume": 0.5,
     "label": "こんな人生でいいのか？お前",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 295
   },
   {
     "id": "konnichiha",
@@ -2372,7 +2668,8 @@
     "k": "こんにちは",
     "volume": 0.15,
     "label": "こんにちは～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 296
   },
   {
     "id": "konbanhaillust",
@@ -2380,7 +2677,8 @@
     "k": "こんばんはいらすとれたのしぐれういです",
     "volume": 0.25,
     "label": "こんばんはイラストレーターのしぐれういです！",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 297
   },
   {
     "id": "gobusata",
@@ -2388,7 +2686,8 @@
     "k": "ごぶさたしております",
     "volume": 0.6,
     "label": "ご無沙汰しております～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 298
   },
   {
     "id": "gomen",
@@ -2396,7 +2695,8 @@
     "k": "ごめん",
     "volume": 0.9,
     "label": "ごめん×３",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 299
   },
   {
     "id": "gomen2",
@@ -2404,7 +2704,8 @@
     "k": "ごめん",
     "volume": 0.7,
     "label": "ごめ～ん",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 300
   },
   {
     "id": "gomennasaine",
@@ -2412,7 +2713,8 @@
     "k": "ごめんなさいね",
     "volume": 0.5,
     "label": "ごめんなさいね",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 301
   },
   {
     "id": "gomenne",
@@ -2420,7 +2722,8 @@
     "k": "ごめんね",
     "volume": 0.7,
     "label": "ごめんね",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 302
   },
   {
     "id": "gomenne2",
@@ -2428,7 +2731,8 @@
     "k": "ごめんね",
     "volume": 0.2,
     "label": "ごめんね2",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 303
   },
   {
     "id": "54321ai",
@@ -2436,7 +2740,8 @@
     "k": "ごよんさんにいちあい",
     "volume": 0.5,
     "label": "5、4、3、2、1、あい",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 304
   },
   {
     "id": "saitei",
@@ -2444,7 +2749,8 @@
     "k": "さいて",
     "volume": 0.6,
     "label": "サイテ～",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 305
   },
   {
     "id": "sainara",
@@ -2452,7 +2758,8 @@
     "k": "さいなら",
     "volume": 1.0,
     "label": "さいなら～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 306
   },
   {
     "id": "sasuganikateruyaro",
@@ -2460,7 +2767,8 @@
     "k": "さすがにかてるやろ",
     "volume": 0.7,
     "label": "さすがに勝てるやろ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 307
   },
   {
     "id": "sakkimade",
@@ -2468,7 +2776,8 @@
     "k": "さつきまであおだつたんですう",
     "volume": 0.8,
     "label": "さっきまで青だったんですぅ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 308
   },
   {
     "id": "sayounara",
@@ -2476,7 +2785,8 @@
     "k": "さよなら",
     "volume": 0.5,
     "label": "さよ～なら～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 309
   },
   {
     "id": "sayonara",
@@ -2484,7 +2794,8 @@
     "k": "さよなら",
     "volume": 0.5,
     "label": "さよなら",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 310
   },
   {
     "id": "zaako",
@@ -2492,7 +2803,8 @@
     "k": "ざこ",
     "volume": 0.3,
     "label": "ざ～こ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 311
   },
   {
     "id": "zako",
@@ -2500,7 +2812,8 @@
     "k": "ざこ",
     "volume": 0.3,
     "label": "ざこっ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 312
   },
   {
     "id": "saishoasobu",
@@ -2508,7 +2821,8 @@
     "k": "しぐれういさいしよあそぶからね",
     "volume": 0.7,
     "label": "しぐれうい最初遊ぶからね",
-    "className": "その他"
+    "className": "その他",
+    "serial": 313
   },
   {
     "id": "uidayo",
@@ -2516,7 +2830,8 @@
     "k": "しぐれういだよ",
     "volume": 0.5,
     "label": "しぐれういだよ！",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 314
   },
   {
     "id": "shiigureui",
@@ -2524,7 +2839,8 @@
     "k": "しぐれういつていいます",
     "volume": 0.8,
     "label": "しぐれういっていいます",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 315
   },
   {
     "id": "shitteruyo",
@@ -2532,7 +2848,8 @@
     "k": "しってるよ",
     "volume": 0.5,
     "label": "知ってるよ～",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 316
   },
   {
     "id": "shitsurei",
@@ -2540,7 +2857,8 @@
     "k": "しつれいいたします",
     "volume": 0.25,
     "label": "失礼いたしま～す",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 317
   },
   {
     "id": "shimasen2",
@@ -2548,7 +2866,8 @@
     "k": "しません",
     "volume": 0.5,
     "label": "しません↓",
-    "className": "否定"
+    "className": "否定",
+    "serial": 318
   },
   {
     "id": "shimasen4",
@@ -2556,7 +2875,8 @@
     "k": "しません",
     "volume": 0.5,
     "label": "しません↑",
-    "className": "否定"
+    "className": "否定",
+    "serial": 319
   },
   {
     "id": "shukkin",
@@ -2564,7 +2884,8 @@
     "k": "しゆつきん",
     "volume": 0.5,
     "label": "しゅっきーん",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 320
   },
   {
     "id": "shuppatu",
@@ -2572,7 +2893,8 @@
     "k": "しゆつぱつしんこう",
     "volume": 0.8,
     "label": "出発進行～",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 321
   },
   {
     "id": "shiranaihito",
@@ -2580,7 +2902,8 @@
     "k": "しらないひとですう",
     "volume": 0.5,
     "label": "知らない人ですぅ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 322
   },
   {
     "id": "siranakatta",
@@ -2588,7 +2911,8 @@
     "k": "しらなかつた",
     "volume": 0.5,
     "label": "知らなかった～",
-    "className": "否定"
+    "className": "否定",
+    "serial": 323
   },
   {
     "id": "siranepun",
@@ -2596,7 +2920,8 @@
     "k": "しらねえぷん",
     "volume": 0.5,
     "label": "知らねえプン！",
-    "className": "否定"
+    "className": "否定",
+    "serial": 324
   },
   {
     "id": "shinjitetanoni",
@@ -2604,7 +2929,8 @@
     "k": "しんじてたのにい",
     "volume": 0.8,
     "label": "信じてたのにぃ",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 325
   },
   {
     "id": "shinchokudame",
@@ -2612,7 +2938,8 @@
     "k": "しんちよくだめです",
     "volume": 0.5,
     "label": "進捗ダメですぅ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 326
   },
   {
     "id": "shinchoku",
@@ -2620,7 +2947,8 @@
     "k": "しんちよくどうですか",
     "volume": 0.8,
     "label": "進捗どうですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 327
   },
   {
     "id": "jikoshoukai",
@@ -2628,7 +2956,8 @@
     "k": "じこしようかいしていただいてもいいですか",
     "volume": 0.5,
     "label": "自己紹介していただいてもいいですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 328
   },
   {
     "id": "jibunni",
@@ -2636,7 +2965,8 @@
     "k": "じぶんにあまい",
     "volume": 0.5,
     "label": "自分に甘い！",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 329
   },
   {
     "id": "rt",
@@ -2644,7 +2974,8 @@
     "k": "じぶんりついといいつすか",
     "volume": 0.5,
     "label": "自分RTいいっすか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 330
   },
   {
     "id": "jyamamiro",
@@ -2652,7 +2983,8 @@
     "k": "じゃまみろじゃまみろ",
     "volume": 0.5,
     "label": "じゃまみろ、じゃまみろ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 331
   },
   {
     "id": "jyamamiro2",
@@ -2660,7 +2992,8 @@
     "k": "じゃまみろじゃまみろ",
     "volume": 0.5,
     "label": "じゃまみろ、じゃまみろ2",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 332
   },
   {
     "id": "16sai",
@@ -2668,7 +3001,8 @@
     "k": "じゆうろくさいだぞ",
     "volume": 0.5,
     "label": "１６才だぞ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 333
   },
   {
     "id": "suimasennee",
@@ -2676,7 +3010,8 @@
     "k": "すいませんねえ",
     "volume": 0.25,
     "label": "すいませんねぇ",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 334
   },
   {
     "id": "sukisuki",
@@ -2684,7 +3019,8 @@
     "k": "すき",
     "volume": 1.0,
     "label": "好き×５",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 335
   },
   {
     "id": "sugoina",
@@ -2692,7 +3028,8 @@
     "k": "すごいな",
     "volume": 0.8,
     "label": "すごいな",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 336
   },
   {
     "id": "sugokukawaii",
@@ -2700,7 +3037,8 @@
     "k": "すごくかわいい",
     "volume": 0.8,
     "label": "すごくかわいい",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 337
   },
   {
     "id": "stay",
@@ -2708,7 +3046,8 @@
     "k": "すてい",
     "volume": 0.7,
     "label": "Stay!",
-    "className": "命令"
+    "className": "命令",
+    "serial": 338
   },
   {
     "id": "suruka",
@@ -2716,7 +3055,8 @@
     "k": "するかあ",
     "volume": 0.7,
     "label": "するかぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 339
   },
   {
     "id": "zukyundokyun",
@@ -2724,7 +3064,8 @@
     "k": "ずきゆん",
     "volume": 0.5,
     "label": "ずきゅんどきゅん胸が鳴り～",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 340
   },
   {
     "id": "seenohai",
@@ -2732,7 +3073,8 @@
     "k": "せのはい",
     "volume": 0.5,
     "label": "せーーの、ハイ！",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 341
   },
   {
     "id": "safe",
@@ -2740,7 +3082,8 @@
     "k": "せふ",
     "volume": 0.5,
     "label": "セーフ！",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 342
   },
   {
     "id": "sensuwaru",
@@ -2748,7 +3091,8 @@
     "k": "せんすわる",
     "volume": 0.5,
     "label": "センス悪っ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 343
   },
   {
     "id": "senpai",
@@ -2756,7 +3100,8 @@
     "k": "せんぱい",
     "volume": 0.5,
     "label": "せんぱ～い",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 344
   },
   {
     "id": "zettaiiya",
@@ -2764,7 +3109,8 @@
     "k": "ぜつたいいやです",
     "volume": 0.5,
     "label": "絶対イヤです",
-    "className": "否定"
+    "className": "否定",
+    "serial": 345
   },
   {
     "id": "zeninkoro",
@@ -2772,7 +3118,8 @@
     "k": "ぜんいんころします",
     "volume": 1.0,
     "label": "全員○します",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 346
   },
   {
     "id": "zenin_sikei",
@@ -2780,7 +3127,8 @@
     "k": "ぜんいんしけい",
     "volume": 0.3,
     "label": "全員○刑！",
-    "className": "その他"
+    "className": "その他",
+    "serial": 347
   },
   {
     "id": "zenbumorac",
@@ -2788,7 +3136,8 @@
     "k": "ぜんぶもらつちやおつぴ",
     "volume": 1.0,
     "label": "全部もらっちゃおうッピー",
-    "className": "その他"
+    "className": "その他",
+    "serial": 348
   },
   {
     "id": "hayakuitte",
@@ -2796,7 +3145,8 @@
     "k": "そういうのはやくいつてくんない",
     "volume": 0.25,
     "label": "そういうの早く言ってくんない？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 349
   },
   {
     "id": "soudane",
@@ -2804,7 +3154,8 @@
     "k": "そうだね",
     "volume": 0.5,
     "label": "そうだね",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 350
   },
   {
     "id": "soudayo2",
@@ -2812,7 +3163,8 @@
     "k": "そうだよお",
     "volume": 0.5,
     "label": "そうだよぉ",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 351
   },
   {
     "id": "soudayo",
@@ -2820,7 +3172,8 @@
     "k": "そうだよままだよ",
     "volume": 0.5,
     "label": "そうだよママだよ～",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 352
   },
   {
     "id": "soudesu",
@@ -2828,7 +3181,8 @@
     "k": "そうです",
     "volume": 0.5,
     "label": "そうです",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 353
   },
   {
     "id": "soudesu2",
@@ -2836,7 +3190,8 @@
     "k": "そうです",
     "volume": 0.5,
     "label": "そうです(強)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 354
   },
   {
     "id": "soudesuka",
@@ -2844,7 +3199,8 @@
     "k": "そうですか",
     "volume": 0.25,
     "label": "そうですか",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 355
   },
   {
     "id": "soudemonai",
@@ -2852,7 +3208,8 @@
     "k": "そうでもないか",
     "volume": 1.0,
     "label": "そうでもないか",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 356
   },
   {
     "id": "sounano",
@@ -2860,14 +3217,16 @@
     "k": "そうなの",
     "volume": 0.7,
     "label": "そうなの",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 357
   },
   {
     "id": "sounanoda",
     "a": "SA",
     "k": "そうなのだ",
     "volume": 0.5,
-    "label": "そうなのだ"
+    "label": "そうなのだ",
+    "serial": 358
   },
   {
     "id": "soune",
@@ -2875,7 +3234,8 @@
     "k": "そうね",
     "volume": 0.5,
     "label": "そうね",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 359
   },
   {
     "id": "souyo",
@@ -2883,7 +3243,8 @@
     "k": "そうよ",
     "volume": 1.0,
     "label": "そうよ",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 360
   },
   {
     "id": "sokojyanai",
@@ -2891,7 +3252,8 @@
     "k": "そこじやない",
     "volume": 0.5,
     "label": "そこじゃないx2",
-    "className": "否定"
+    "className": "否定",
+    "serial": 361
   },
   {
     "id": "soudayon",
@@ -2899,7 +3261,8 @@
     "k": "そだよん",
     "volume": 0.5,
     "label": "そだよん",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 362
   },
   {
     "id": "sotoniike",
@@ -2907,7 +3270,8 @@
     "k": "そとにいけつてこと",
     "volume": 0.5,
     "label": "外に行けってコト？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 363
   },
   {
     "id": "sorehachigau",
@@ -2915,7 +3279,8 @@
     "k": "それはちがうじやん",
     "volume": 0.25,
     "label": "それは違うじゃん",
-    "className": "否定"
+    "className": "否定",
+    "serial": 364
   },
   {
     "id": "sorewatashini",
@@ -2923,7 +3288,8 @@
     "k": "それわたしにいつてる",
     "volume": 0.7,
     "label": "それ私に言ってる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 365
   },
   {
     "id": "sonnakotonaiyo",
@@ -2931,7 +3297,8 @@
     "k": "そんなことないよ",
     "volume": 0.25,
     "label": "そんなことないよ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 366
   },
   {
     "id": "sonnakotonaka",
@@ -2939,7 +3306,8 @@
     "k": "そんなことなかつたです",
     "volume": 0.7,
     "label": "そんなこと無かったですw",
-    "className": "否定"
+    "className": "否定",
+    "serial": 367
   },
   {
     "id": "sonnakoto",
@@ -2947,7 +3315,8 @@
     "k": "そんなことはない",
     "volume": 1.0,
     "label": "そんなことはない",
-    "className": "否定"
+    "className": "否定",
+    "serial": 368
   },
   {
     "id": "sonnani",
@@ -2955,7 +3324,8 @@
     "k": "そんなにあんの",
     "volume": 0.2,
     "label": "そんなにあんの？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 369
   },
   {
     "id": "sonnawakenakunai",
@@ -2963,7 +3333,8 @@
     "k": "そんなわけなくない",
     "volume": 0.3,
     "label": "そんな訳無くない？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 370
   },
   {
     "id": "takakunai",
@@ -2971,7 +3342,8 @@
     "k": "たかくないですか",
     "volume": 0.25,
     "label": "高くないですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 371
   },
   {
     "id": "tashikani",
@@ -2979,7 +3351,8 @@
     "k": "たしかに",
     "volume": 0.8,
     "label": "確かに！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 372
   },
   {
     "id": "tasukete2",
@@ -2987,7 +3360,8 @@
     "k": "たすけてえ",
     "volume": 0.7,
     "label": "助けてぇ(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 373
   },
   {
     "id": "tasukete",
@@ -2995,7 +3369,8 @@
     "k": "たたすけて",
     "volume": 1.0,
     "label": "た、助けてぇ(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 374
   },
   {
     "id": "tadaima",
@@ -3003,7 +3378,8 @@
     "k": "ただいま",
     "volume": 0.5,
     "label": "ただいまー",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 375
   },
   {
     "id": "tabetemasu",
@@ -3011,7 +3387,8 @@
     "k": "たべてます",
     "volume": 0.5,
     "label": "食べてまーす",
-    "className": "その他"
+    "className": "その他",
+    "serial": 376
   },
   {
     "id": "daijyoubu",
@@ -3019,7 +3396,8 @@
     "k": "だいじようぶ",
     "volume": 0.5,
     "label": "大丈夫？",
-    "className": "慰める"
+    "className": "慰める",
+    "serial": 377
   },
   {
     "id": "daisuki",
@@ -3027,7 +3405,8 @@
     "k": "だいすき",
     "volume": 0.5,
     "label": "大好き～",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 378
   },
   {
     "id": "daisukidayo",
@@ -3035,7 +3414,8 @@
     "k": "だいすきだよ",
     "volume": 0.5,
     "label": "大好きだよ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 379
   },
   {
     "id": "dashichao",
@@ -3043,7 +3423,8 @@
     "k": "だしちやお",
     "volume": 0.8,
     "label": "出しちゃお",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 380
   },
   {
     "id": "daseruyo",
@@ -3051,7 +3432,8 @@
     "k": "だせるよ",
     "volume": 0.5,
     "label": "出せるよ(イケボ)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 381
   },
   {
     "id": "dadakoneru",
@@ -3059,7 +3441,8 @@
     "k": "だだこねるんじやありません",
     "volume": 0.5,
     "label": "ダダこねるんじゃありません！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 382
   },
   {
     "id": "dattesaa",
@@ -3067,7 +3450,8 @@
     "k": "だつてさあ",
     "volume": 0.7,
     "label": "だってさぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 383
   },
   {
     "id": "datte",
@@ -3075,7 +3459,8 @@
     "k": "だつてしかたないだろおんながすきなんだよ",
     "volume": 0.5,
     "label": "だって仕方ないだろ、女が好きなんだよ！",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 384
   },
   {
     "id": "damasuna",
@@ -3083,7 +3468,8 @@
     "k": "だますな",
     "volume": 0.5,
     "label": "騙すな！",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 385
   },
   {
     "id": "daregabba",
@@ -3091,7 +3477,8 @@
     "k": "だれがばばあじや",
     "volume": 0.5,
     "label": "誰がババアじゃ！",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 386
   },
   {
     "id": "chigaimasu",
@@ -3099,7 +3486,8 @@
     "k": "ちがいます",
     "volume": 0.8,
     "label": "違いますw",
-    "className": "否定"
+    "className": "否定",
+    "serial": 387
   },
   {
     "id": "chigaimasuu",
@@ -3107,7 +3495,8 @@
     "k": "ちがいますう",
     "volume": 0.5,
     "label": "違いますぅ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 388
   },
   {
     "id": "chigaimasuu2",
@@ -3115,7 +3504,8 @@
     "k": "ちがいますう",
     "volume": 0.5,
     "label": "違いますぅww",
-    "className": "否定"
+    "className": "否定",
+    "serial": 389
   },
   {
     "id": "chigauno",
@@ -3123,7 +3513,8 @@
     "k": "ちがうの",
     "volume": 0.5,
     "label": "違うの！",
-    "className": "否定"
+    "className": "否定",
+    "serial": 390
   },
   {
     "id": "chigauyo",
@@ -3131,7 +3522,8 @@
     "k": "ちがうよ",
     "volume": 0.6,
     "label": "違うよ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 391
   },
   {
     "id": "chigaunndatte",
@@ -3139,7 +3531,8 @@
     "k": "ちがうんだつて",
     "volume": 0.6,
     "label": "違うんだって！",
-    "className": "否定"
+    "className": "否定",
+    "serial": 392
   },
   {
     "id": "chikuchikukotoba",
@@ -3147,7 +3540,8 @@
     "k": "ちくちくことばだよ",
     "volume": 0.3,
     "label": "チクチク言葉だよ！",
-    "className": "その他"
+    "className": "その他",
+    "serial": 393
   },
   {
     "id": "chibakagayo",
@@ -3155,7 +3549,8 @@
     "k": "ちつばかがよ",
     "volume": 0.3,
     "label": "チッ…ばかがよ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 394
   },
   {
     "id": "chantokangaete",
@@ -3163,7 +3558,8 @@
     "k": "ちやんとかんがえてね",
     "volume": 0.5,
     "label": "ちゃんと考えてね",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 395
   },
   {
     "id": "chu",
@@ -3171,7 +3567,8 @@
     "k": "ちゆつ",
     "volume": 0.5,
     "label": "チュッ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 396
   },
   {
     "id": "chu2",
@@ -3179,7 +3576,8 @@
     "k": "ちゆつ",
     "volume": 0.5,
     "label": "チュッ(低)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 397
   },
   {
     "id": "choushiwaru",
@@ -3187,7 +3585,8 @@
     "k": "ちょうしわるくてくさ",
     "volume": 0.5,
     "label": "調子悪くて草",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 398
   },
   {
     "id": "chottohz",
@@ -3195,7 +3594,8 @@
     "k": "ちょつとはずかしいな",
     "volume": 0.5,
     "label": "ちょっと恥ずかしいな",
-    "className": "その他"
+    "className": "その他",
+    "serial": 399
   },
   {
     "id": "choukawaii",
@@ -3203,7 +3603,8 @@
     "k": "ちよかわいい",
     "volume": 0.5,
     "label": "チョーかわいい",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 400
   },
   {
     "id": "kotenpan",
@@ -3211,7 +3612,8 @@
     "k": "ちよちよいのちよいとこてんぱんにしてやりますわあ",
     "volume": 0.9,
     "label": "ちょちょいのちょいとコテンパンにしてやりますわぁ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 401
   },
   {
     "id": "chottoiinikui",
@@ -3219,7 +3621,8 @@
     "k": "ちよつといいにくいんだけど",
     "volume": 0.8,
     "label": "ちょっと言いにくいんだけど～",
-    "className": "その他"
+    "className": "その他",
+    "serial": 402
   },
   {
     "id": "chottomachina",
@@ -3227,7 +3630,8 @@
     "k": "ちよつとまちな",
     "volume": 0.15,
     "label": "ちょっと待ちな～",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 403
   },
   {
     "id": "chottomatte",
@@ -3235,7 +3639,8 @@
     "k": "ちよつとまつてえ",
     "volume": 0.5,
     "label": "ちょっと待ってぇw",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 404
   },
   {
     "id": "chottomatte2",
@@ -3243,7 +3648,8 @@
     "k": "ちよつとまつてえ",
     "volume": 1.0,
     "label": "ちょっと待ってぇx2",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 405
   },
   {
     "id": "tuu",
@@ -3251,7 +3657,8 @@
     "k": "つ",
     "volume": 1.0,
     "label": "つー",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 406
   },
   {
     "id": "tsukareta",
@@ -3259,7 +3666,8 @@
     "k": "つかれた",
     "volume": 1.0,
     "label": "疲れた～",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 407
   },
   {
     "id": "tsuginanini",
@@ -3267,7 +3675,8 @@
     "k": "つぎなににしようかな",
     "volume": 0.5,
     "label": "次何にしようかな",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 408
   },
   {
     "id": "tsuginokata4",
@@ -3275,7 +3684,8 @@
     "k": "つぎのかたにおこえがけさせていただこうかな",
     "volume": 0.25,
     "label": "次の方にお声がけをさせていただこうかな",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 409
   },
   {
     "id": "tsuginoyatsushiyo",
@@ -3283,7 +3693,8 @@
     "k": "つぎのやつしよ",
     "volume": 0.9,
     "label": "次のやつしよ！",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 410
   },
   {
     "id": "tsutawaru",
@@ -3291,7 +3702,8 @@
     "k": "つたわる",
     "volume": 0.25,
     "label": "伝わる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 411
   },
   {
     "id": "tsudukete",
@@ -3299,7 +3711,8 @@
     "k": "つづけて",
     "volume": 0.5,
     "label": "続けて？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 412
   },
   {
     "id": "dekiruki",
@@ -3307,7 +3720,8 @@
     "k": "できるきがしねえわ",
     "volume": 0.7,
     "label": "出来る気がしねぇわ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 413
   },
   {
     "id": "debu",
@@ -3315,7 +3729,8 @@
     "k": "でぶ",
     "volume": 0.5,
     "label": "デブ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 414
   },
   {
     "id": "toiukotode2",
@@ -3323,7 +3738,8 @@
     "k": "ということで",
     "volume": 0.8,
     "label": "ということで",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 415
   },
   {
     "id": "tsuginokata3",
@@ -3331,7 +3747,8 @@
     "k": "ということでつぎのかたにかけていこうかとおもいます",
     "volume": 0.25,
     "label": "ということで次の方に掛けていこうかと思います",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 416
   },
   {
     "id": "toiukotode",
@@ -3339,7 +3756,8 @@
     "k": "ということでですね",
     "volume": 0.5,
     "label": "ということでですね",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 417
   },
   {
     "id": "tondemone",
@@ -3347,7 +3765,8 @@
     "k": "とんでもねえな",
     "volume": 0.5,
     "label": "とんでもねぇな",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 418
   },
   {
     "id": "doushite",
@@ -3355,7 +3774,8 @@
     "k": "どうしてえ",
     "volume": 0.5,
     "label": "どうしてぇ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 419
   },
   {
     "id": "doushiyoukana",
@@ -3363,7 +3783,8 @@
     "k": "どうしようかな",
     "volume": 1.0,
     "label": "どうしようかな",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 420
   },
   {
     "id": "doujin1",
@@ -3371,7 +3792,8 @@
     "k": "どうじんし",
     "volume": 0.2,
     "label": "同人誌1(え、何の同人誌買ったの？ ねぇ)",
-    "className": "その他"
+    "className": "その他",
+    "serial": 421
   },
   {
     "id": "doujin2",
@@ -3379,7 +3801,8 @@
     "k": "どうじんし",
     "volume": 0.2,
     "label": "同人誌2(何の同人誌？ね、これ？)",
-    "className": "その他"
+    "className": "その他",
+    "serial": 422
   },
   {
     "id": "doujin3",
@@ -3387,7 +3810,8 @@
     "k": "どうじんし",
     "volume": 0.2,
     "label": "同人誌3(隠してんの？)",
-    "className": "その他"
+    "className": "その他",
+    "serial": 423
   },
   {
     "id": "doujin4",
@@ -3395,7 +3819,8 @@
     "k": "どうじんし",
     "volume": 0.2,
     "label": "同人誌4(何の同人誌？ねぇ、そこ見してよ、ねぇ？)",
-    "className": "その他"
+    "className": "その他",
+    "serial": 424
   },
   {
     "id": "dousuru",
@@ -3403,7 +3828,8 @@
     "k": "どうする",
     "volume": 0.5,
     "label": "どうする？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 425
   },
   {
     "id": "dounattemo",
@@ -3411,7 +3837,8 @@
     "k": "どうなつてもしらんぞ",
     "volume": 0.4,
     "label": "どうなっても知らんぞ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 426
   },
   {
     "id": "doumo2",
@@ -3419,7 +3846,8 @@
     "k": "どうも",
     "volume": 0.8,
     "label": "どうもー(低)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 427
   },
   {
     "id": "doumo",
@@ -3427,7 +3855,8 @@
     "k": "どうも",
     "volume": 1.0,
     "label": "どうもー(中)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 428
   },
   {
     "id": "doumo3",
@@ -3435,7 +3864,8 @@
     "k": "どうも",
     "volume": 0.5,
     "label": "どうもー(高)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 429
   },
   {
     "id": "doumox",
@@ -3443,7 +3873,8 @@
     "k": "どうも",
     "volume": 0.25,
     "label": "どうもー(高)2",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 430
   },
   {
     "id": "dokosumi",
@@ -3451,7 +3882,8 @@
     "k": "どこすみ",
     "volume": 0.5,
     "label": "どこ住み？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 431
   },
   {
     "id": "do",
@@ -3459,7 +3891,8 @@
     "k": "どつ",
     "volume": 0.5,
     "label": "ドッ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 432
   },
   {
     "id": "docchigazakoka",
@@ -3467,7 +3900,8 @@
     "k": "どつちがざこかわからせてやろうか",
     "volume": 0.2,
     "label": "どっちが雑魚かわからせてやろうか？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 433
   },
   {
     "id": "dododousureba",
@@ -3475,7 +3909,8 @@
     "k": "どどどどうすればいいの",
     "volume": 0.15,
     "label": "ど、ど、ど、どうすればいいの？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 434
   },
   {
     "id": "domodomo",
@@ -3483,7 +3918,8 @@
     "k": "どもども",
     "volume": 1.0,
     "label": "どもども",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 435
   },
   {
     "id": "doregaiidesuka",
@@ -3491,7 +3927,8 @@
     "k": "どれがいいんですか",
     "volume": 0.6,
     "label": "どれがいいですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 436
   },
   {
     "id": "dororicchinau",
@@ -3499,7 +3936,8 @@
     "k": "どろりつちなう",
     "volume": 0.5,
     "label": "ドロリッチなぅ",
-    "className": "食べ物"
+    "className": "食べ物",
+    "serial": 437
   },
   {
     "id": "donnakimochi",
@@ -3507,7 +3945,8 @@
     "k": "どんなきもち",
     "volume": 0.6,
     "label": "どんな気持ち～？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 438
   },
   {
     "id": "donnakimochi2",
@@ -3515,7 +3954,8 @@
     "k": "どんなきもち",
     "volume": 0.5,
     "label": "どんな気持ち？2",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 439
   },
   {
     "id": "naani",
@@ -3523,7 +3963,8 @@
     "k": "なあにどしたの",
     "volume": 0.6,
     "label": "なぁに？どしたの？(寝起き)",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 440
   },
   {
     "id": "nai",
@@ -3531,7 +3972,8 @@
     "k": "ない",
     "volume": 0.7,
     "label": "ない",
-    "className": "否定"
+    "className": "否定",
+    "serial": 441
   },
   {
     "id": "naichatta2",
@@ -3539,7 +3981,8 @@
     "k": "ないちやつた",
     "volume": 0.8,
     "label": "泣いちゃった！",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 442
   },
   {
     "id": "naino",
@@ -3547,7 +3990,8 @@
     "k": "ないの",
     "volume": 0.8,
     "label": "ないの？(泣)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 443
   },
   {
     "id": "naiwa",
@@ -3555,7 +3999,8 @@
     "k": "ないわ",
     "volume": 0.5,
     "label": "ないわー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 444
   },
   {
     "id": "shitauchi",
@@ -3563,7 +4008,8 @@
     "k": "なげきっすしたうち",
     "volume": 0.5,
     "label": "投げキッス(舌打ち)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 445
   },
   {
     "id": "nanikaiukoto",
@@ -3571,7 +4017,8 @@
     "k": "なにかいうことはありませんか",
     "volume": 0.5,
     "label": "何か言うことはありませんか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 446
   },
   {
     "id": "nanikara",
@@ -3579,7 +4026,8 @@
     "k": "なにからやる",
     "volume": 0.5,
     "label": "何からやる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 447
   },
   {
     "id": "nanigaii",
@@ -3587,7 +4035,8 @@
     "k": "なにがいいんですか",
     "volume": 0.6,
     "label": "何がいいんですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 448
   },
   {
     "id": "nanisuru",
@@ -3595,7 +4044,8 @@
     "k": "なにする",
     "volume": 0.6,
     "label": "何する～？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 449
   },
   {
     "id": "naninishiyoukana",
@@ -3603,7 +4053,8 @@
     "k": "なににしようかな",
     "volume": 0.8,
     "label": "何にしようかな",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 450
   },
   {
     "id": "nanininatta",
@@ -3611,7 +4062,8 @@
     "k": "なにになつたかな",
     "volume": 0.5,
     "label": "何になったかな？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 451
   },
   {
     "id": "nanimiteru",
@@ -3619,7 +4071,8 @@
     "k": "なにみてんの",
     "volume": 0.15,
     "label": "何見てんの？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 452
   },
   {
     "id": "naniwarotennen",
@@ -3627,7 +4080,8 @@
     "k": "なにわろてんねん",
     "volume": 0.5,
     "label": "何わろてんねん(ういお)",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 453
   },
   {
     "id": "naniwoshitedemo",
@@ -3635,7 +4089,8 @@
     "k": "なにをしてでもかつんだよお",
     "volume": 0.7,
     "label": "何をしてでも勝つんだよぉ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 454
   },
   {
     "id": "nanotte2",
@@ -3643,7 +4098,8 @@
     "k": "なのつていただいてもよろしいでしようか",
     "volume": 0.8,
     "label": "名乗っていただいてもよろしいでしょうか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 455
   },
   {
     "id": "naraneeyo",
@@ -3651,7 +4107,8 @@
     "k": "ならねよ",
     "volume": 0.5,
     "label": "ならねーよ",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 456
   },
   {
     "id": "naruhodone3",
@@ -3659,7 +4116,8 @@
     "k": "なるほどね",
     "volume": 0.5,
     "label": "なるほどね",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 457
   },
   {
     "id": "naruhodone2",
@@ -3667,7 +4125,8 @@
     "k": "なるほどねえ",
     "volume": 0.5,
     "label": "なるほどねぇ↑",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 458
   },
   {
     "id": "naruhodonee",
@@ -3675,7 +4134,8 @@
     "k": "なるほどねえ",
     "volume": 0.5,
     "label": "なるほどねぇ↓",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 459
   },
   {
     "id": "nankaotoshita",
@@ -3683,7 +4143,8 @@
     "k": "なんか",
     "volume": 0.8,
     "label": "なんか音した×３",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 460
   },
   {
     "id": "nankairu",
@@ -3691,7 +4152,8 @@
     "k": "なんかいる",
     "volume": 0.5,
     "label": "なんかいるー",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 461
   },
   {
     "id": "nanjikansuru",
@@ -3699,7 +4161,8 @@
     "k": "なんじかんする",
     "volume": 0.5,
     "label": "何時間するw？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 462
   },
   {
     "id": "nanjyakoitsu",
@@ -3707,7 +4170,8 @@
     "k": "なんじやこいつ",
     "volume": 0.5,
     "label": "なんじゃこいつ？",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 463
   },
   {
     "id": "nanjyakorya",
@@ -3715,7 +4179,8 @@
     "k": "なんじやこりや",
     "volume": 0.5,
     "label": "なんじゃコリャwww",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 464
   },
   {
     "id": "nandaomae",
@@ -3723,7 +4188,8 @@
     "k": "なんだおまえ",
     "volume": 0.8,
     "label": "なんだお前～",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 465
   },
   {
     "id": "nandakore",
@@ -3731,7 +4197,8 @@
     "k": "なんだこれ",
     "volume": 0.5,
     "label": "何だこれ？www",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 466
   },
   {
     "id": "nandakore2",
@@ -3739,7 +4206,8 @@
     "k": "なんだこれ",
     "volume": 1.0,
     "label": "なんだこれ",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 467
   },
   {
     "id": "nandatte",
@@ -3747,7 +4215,8 @@
     "k": "なんだつて",
     "volume": 1.0,
     "label": "なんだって？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 468
   },
   {
     "id": "nandaro",
@@ -3755,7 +4224,8 @@
     "k": "なんだろ",
     "volume": 0.8,
     "label": "なんだろ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 469
   },
   {
     "id": "nantekotta",
@@ -3763,7 +4233,8 @@
     "k": "なんてこつた",
     "volume": 1.0,
     "label": "なんてこった",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 470
   },
   {
     "id": "nandemo",
@@ -3771,7 +4242,8 @@
     "k": "なんでも",
     "volume": 0.7,
     "label": "何でも？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 471
   },
   {
     "id": "nandeyaro",
@@ -3779,7 +4251,8 @@
     "k": "なんでやろなあ",
     "volume": 0.5,
     "label": "なんでやろなぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 472
   },
   {
     "id": "nanmokawaran",
@@ -3787,7 +4260,8 @@
     "k": "なんもかわらんて",
     "volume": 0.3,
     "label": "なんもかわらんて(寝起き)",
-    "className": "その他"
+    "className": "その他",
+    "serial": 473
   },
   {
     "id": "nanmowakaran",
@@ -3795,7 +4269,8 @@
     "k": "なんもわからん",
     "volume": 0.8,
     "label": "なんもわからん",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 474
   },
   {
     "id": "nisemonodesu",
@@ -3803,7 +4278,8 @@
     "k": "にせものですう",
     "volume": 0.5,
     "label": "偽物ですぅ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 475
   },
   {
     "id": "nihihi",
@@ -3811,7 +4287,8 @@
     "k": "にひひ",
     "volume": 0.5,
     "label": "にひひwww",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 476
   },
   {
     "id": "nyao",
@@ -3819,7 +4296,8 @@
     "k": "にやお",
     "volume": 0.5,
     "label": "ニャオ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 477
   },
   {
     "id": "ningenjyanee",
@@ -3827,7 +4305,8 @@
     "k": "にんげんじやねえなおまえ",
     "volume": 0.5,
     "label": "人間じゃねぇな、お前",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 478
   },
   {
     "id": "ningendamon",
@@ -3835,7 +4314,8 @@
     "k": "にんげんだもんねまちがえることもあるよね",
     "volume": 0.5,
     "label": "人間だもんね、間違える事もあるよね",
-    "className": "慰める"
+    "className": "慰める",
+    "serial": 479
   },
   {
     "id": "ne",
@@ -3843,7 +4323,8 @@
     "k": "ね",
     "volume": 0.7,
     "label": "ね！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 480
   },
   {
     "id": "nee",
@@ -3851,7 +4332,8 @@
     "k": "ねええええ",
     "volume": 0.5,
     "label": "ねぇぇぇぇ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 481
   },
   {
     "id": "neegomi",
@@ -3859,7 +4341,8 @@
     "k": "ねえごみ",
     "volume": 0.8,
     "label": "ねぇ、ゴミ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 482
   },
   {
     "id": "neeshitteru",
@@ -3867,7 +4350,8 @@
     "k": "ねえしつてる",
     "volume": 0.5,
     "label": "ねぇ知ってる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 483
   },
   {
     "id": "neeyameteyo",
@@ -3875,7 +4359,8 @@
     "k": "ねえやめてよそういうこというの",
     "volume": 0.25,
     "label": "ねぇ、やめてよそういうこと言うの",
-    "className": "否定"
+    "className": "否定",
+    "serial": 484
   },
   {
     "id": "negai",
@@ -3883,7 +4368,8 @@
     "k": "ねがいごとをきいてあげましよう",
     "volume": 1.0,
     "label": "願い事を聞いてあげましょう",
-    "className": "その他"
+    "className": "その他",
+    "serial": 485
   },
   {
     "id": "nena",
@@ -3891,7 +4377,8 @@
     "k": "ねな",
     "volume": 0.5,
     "label": "寝な！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 486
   },
   {
     "id": "ne-yo",
@@ -3899,7 +4386,8 @@
     "k": "ねよ",
     "volume": 0.5,
     "label": "ねーよ！",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 487
   },
   {
     "id": "nerunaokiro",
@@ -3907,7 +4395,8 @@
     "k": "ねるなおきろ",
     "volume": 0.7,
     "label": "寝るな！起きろ！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 488
   },
   {
     "id": "nero",
@@ -3915,7 +4404,8 @@
     "k": "ねろ",
     "volume": 0.5,
     "label": "寝ろ",
-    "className": "命令"
+    "className": "命令",
+    "serial": 489
   },
   {
     "id": "neroyo",
@@ -3923,7 +4413,8 @@
     "k": "ねろよおまえまじで",
     "volume": 0.15,
     "label": "寝ろよお前、マジで",
-    "className": "命令"
+    "className": "命令",
+    "serial": 490
   },
   {
     "id": "nonoshiri",
@@ -3931,7 +4422,8 @@
     "k": "ののしりわどがすきないんだわ",
     "volume": 0.5,
     "label": "罵りワードが少ないんだわ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 491
   },
   {
     "id": "ha",
@@ -3939,7 +4431,8 @@
     "k": "は",
     "volume": 1.0,
     "label": "は？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 492
   },
   {
     "id": "haa",
@@ -3947,7 +4440,8 @@
     "k": "はぁ",
     "volume": 1.0,
     "label": "はぁ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 493
   },
   {
     "id": "haa2",
@@ -3955,7 +4449,8 @@
     "k": "はああ",
     "volume": 0.8,
     "label": "はぁぁ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 494
   },
   {
     "id": "haaa2",
@@ -3963,7 +4458,8 @@
     "k": "はああ",
     "volume": 0.5,
     "label": "はぁ～あ！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 495
   },
   {
     "id": "haananda",
@@ -3971,7 +4467,8 @@
     "k": "はああなんだこいつう",
     "volume": 0.8,
     "label": "はぁ゛ぁ゛？なんだコイツぅw",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 496
   },
   {
     "id": "haayannoka",
@@ -3979,7 +4476,8 @@
     "k": "はああやんのか",
     "volume": 0.4,
     "label": "はぁぁ？やんのか？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 497
   },
   {
     "id": "haabikkuri",
@@ -3987,7 +4485,8 @@
     "k": "はあびつくりした",
     "volume": 0.3,
     "label": "はぁ、びっくりした",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 498
   },
   {
     "id": "hayareyare",
@@ -3995,7 +4494,8 @@
     "k": "はあやれやれ",
     "volume": 0.7,
     "label": "はぁ、やれやれ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 499
   },
   {
     "id": "hai",
@@ -4003,7 +4503,8 @@
     "k": "はい",
     "volume": 0.7,
     "label": "はい",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 500
   },
   {
     "id": "high",
@@ -4011,7 +4512,8 @@
     "k": "はい",
     "volume": 0.5,
     "label": "High!",
-    "className": "その他"
+    "className": "その他",
+    "serial": 501
   },
   {
     "id": "ha-i",
@@ -4019,7 +4521,8 @@
     "k": "はい",
     "volume": 0.8,
     "label": "はーい",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 502
   },
   {
     "id": "haai2",
@@ -4027,7 +4530,8 @@
     "k": "はい",
     "volume": 0.2,
     "label": "はーい2",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 503
   },
   {
     "id": "haai",
@@ -4035,7 +4539,8 @@
     "k": "はい",
     "volume": 0.25,
     "label": "はーい(不満)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 504
   },
   {
     "id": "omizu",
@@ -4043,7 +4548,8 @@
     "k": "はいおみずのみます",
     "volume": 0.2,
     "label": "はい、お水飲みま～す",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 505
   },
   {
     "id": "koredeiidesuka",
@@ -4051,7 +4557,8 @@
     "k": "はいこれでいいですか",
     "volume": 0.5,
     "label": "はい、これでいいですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 506
   },
   {
     "id": "haitsugi",
@@ -4059,7 +4566,8 @@
     "k": "はいつぎ",
     "volume": 0.9,
     "label": "はい次～",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 507
   },
   {
     "id": "haitsugi7",
@@ -4067,7 +4575,8 @@
     "k": "はいつぎ",
     "volume": 0.8,
     "label": "はい、次",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 508
   },
   {
     "id": "haitsugi8",
@@ -4075,7 +4584,8 @@
     "k": "はいつぎ",
     "volume": 0.8,
     "label": "はい次！",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 509
   },
   {
     "id": "haitsugiikimasu",
@@ -4083,7 +4593,8 @@
     "k": "はいつぎいきますよ",
     "volume": 0.8,
     "label": "はい次いきますよ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 510
   },
   {
     "id": "haitsubuyaki",
@@ -4091,7 +4602,8 @@
     "k": "はいつぶやきました",
     "volume": 0.5,
     "label": "はい、つぶやきました(JJ)",
-    "className": "その他"
+    "className": "その他",
+    "serial": 511
   },
   {
     "id": "haitoiukotode",
@@ -4099,7 +4611,8 @@
     "k": "はいということで",
     "volume": 0.5,
     "label": "はい、ということで",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 512
   },
   {
     "id": "hakimo",
@@ -4107,7 +4620,8 @@
     "k": "はきも",
     "volume": 0.8,
     "label": "は？キモ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 513
   },
   {
     "id": "hashitanaidesuwayo",
@@ -4115,7 +4629,8 @@
     "k": "はしたないですわよ",
     "volume": 0.5,
     "label": "はしたないですわよ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 514
   },
   {
     "id": "hajimemashite",
@@ -4123,7 +4638,8 @@
     "k": "はじめまして",
     "volume": 0.8,
     "label": "はじめまして",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 515
   },
   {
     "id": "hazukashi",
@@ -4131,7 +4647,8 @@
     "k": "はずかし",
     "volume": 0.5,
     "label": "はずかしーー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 516
   },
   {
     "id": "hazukashiindayona",
@@ -4139,7 +4656,8 @@
     "k": "はずかしいんだよなあ",
     "volume": 0.3,
     "label": "恥ずかしいんだよなぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 517
   },
   {
     "id": "hatsukareta",
@@ -4147,7 +4665,8 @@
     "k": "はつかれた",
     "volume": 0.8,
     "label": "は～疲れた",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 518
   },
   {
     "id": "hazamaa",
@@ -4155,7 +4674,8 @@
     "k": "はつざまあみやがれ",
     "volume": 0.5,
     "label": "はっ、ザマぁ見やがれ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 519
   },
   {
     "id": "yoyuu",
@@ -4163,7 +4683,8 @@
     "k": "はつよゆうやわ",
     "volume": 1.0,
     "label": "はっ、余裕やわ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 520
   },
   {
     "id": "haadokidoki",
@@ -4171,7 +4692,8 @@
     "k": "はどきどきした",
     "volume": 0.2,
     "label": "は～ドキドキした",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 521
   },
   {
     "id": "herb",
@@ -4179,7 +4701,8 @@
     "k": "はぶはえますわ",
     "volume": 0.5,
     "label": "ハーブ生えますわ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 522
   },
   {
     "id": "hayaihayai",
@@ -4187,7 +4710,8 @@
     "k": "はやいはやいはやいはやい",
     "volume": 0.6,
     "label": "早い早い早い早い",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 523
   },
   {
     "id": "hayakugen",
@@ -4195,7 +4719,8 @@
     "k": "はやく",
     "volume": 1.0,
     "label": "早く現実見た方がいいですよ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 524
   },
   {
     "id": "hayaku",
@@ -4203,7 +4728,8 @@
     "k": "はやくやせろでぶ",
     "volume": 0.5,
     "label": "早く痩せろデブ！",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 525
   },
   {
     "id": "hayasugi",
@@ -4211,7 +4737,8 @@
     "k": "はやすぎない",
     "volume": 0.5,
     "label": "早すぎない？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 526
   },
   {
     "id": "hayonero",
@@ -4219,7 +4746,8 @@
     "k": "はよねろ",
     "volume": 0.5,
     "label": "はよ寝ろ",
-    "className": "命令"
+    "className": "命令",
+    "serial": 527
   },
   {
     "id": "byebye",
@@ -4227,7 +4755,8 @@
     "k": "ばいばい",
     "volume": 0.7,
     "label": "バイバ～イ(高)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 528
   },
   {
     "id": "byebye3",
@@ -4235,7 +4764,8 @@
     "k": "ばいばい",
     "volume": 0.5,
     "label": "バイバ～イ(中)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 529
   },
   {
     "id": "byebye2",
@@ -4243,7 +4773,8 @@
     "k": "ばいばい",
     "volume": 0.5,
     "label": "バイバ～イ(低)",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 530
   },
   {
     "id": "bakaa",
@@ -4251,7 +4782,8 @@
     "k": "ばかあ",
     "volume": 0.5,
     "label": "バカぁww",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 531
   },
   {
     "id": "bakagayo",
@@ -4259,7 +4791,8 @@
     "k": "ばかがよお",
     "volume": 0.5,
     "label": "バカがよぉ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 532
   },
   {
     "id": "bakachinga",
@@ -4267,7 +4800,8 @@
     "k": "ばかちんがあ",
     "volume": 0.5,
     "label": "バカチンがぁ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 533
   },
   {
     "id": "bakame",
@@ -4275,7 +4809,8 @@
     "k": "ばかめ",
     "volume": 0.5,
     "label": "バカめ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 534
   },
   {
     "id": "pakupaku",
@@ -4283,7 +4818,8 @@
     "k": "ぱくぱく",
     "volume": 0.2,
     "label": "パクパク",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 535
   },
   {
     "id": "8888",
@@ -4291,7 +4827,8 @@
     "k": "ぱちぱちぱちぱち",
     "volume": 0.5,
     "label": "パチパチパチパチ～",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 536
   },
   {
     "id": "hiii",
@@ -4299,7 +4836,8 @@
     "k": "ひいいいい",
     "volume": 0.7,
     "label": "ひぃぃぃぃ",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 537
   },
   {
     "id": "hisashiburi",
@@ -4307,7 +4845,8 @@
     "k": "ひさしぶり",
     "volume": 0.5,
     "label": "ひさしぶり",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 538
   },
   {
     "id": "hi",
@@ -4315,7 +4854,8 @@
     "k": "ひつ",
     "volume": 0.5,
     "label": "ひっ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 539
   },
   {
     "id": "hihifu",
@@ -4323,7 +4863,8 @@
     "k": "ひつひつふ",
     "volume": 0.8,
     "label": "ひっひっふー",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 540
   },
   {
     "id": "hidokunai",
@@ -4331,7 +4872,8 @@
     "k": "ひどくないですか",
     "volume": 0.8,
     "label": "ひどくないですか？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 541
   },
   {
     "id": "himajanaidesuka",
@@ -4339,7 +4881,8 @@
     "k": "ひまじやないですか",
     "volume": 0.4,
     "label": "暇じゃないですかぁ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 542
   },
   {
     "id": "bikkuri",
@@ -4347,7 +4890,8 @@
     "k": "びつくりしたあ",
     "volume": 0.5,
     "label": "びっくりしたぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 543
   },
   {
     "id": "pien",
@@ -4355,7 +4899,8 @@
     "k": "ぴえん",
     "volume": 0.2,
     "label": "ぴえん",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 544
   },
   {
     "id": "fuuun",
@@ -4363,7 +4908,8 @@
     "k": "ふううん",
     "volume": 0.5,
     "label": "ふぅぅん(溜息)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 545
   },
   {
     "id": "fufuu",
@@ -4371,7 +4917,8 @@
     "k": "ふつふ",
     "volume": 0.8,
     "label": "ふっふー",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 546
   },
   {
     "id": "fufun",
@@ -4379,7 +4926,8 @@
     "k": "ふふん",
     "volume": 0.5,
     "label": "フフ～ン",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 547
   },
   {
     "id": "fu",
@@ -4387,7 +4935,8 @@
     "k": "ふん",
     "volume": 0.8,
     "label": "ふん～",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 548
   },
   {
     "id": "fuuun2",
@@ -4395,7 +4944,8 @@
     "k": "ふん",
     "volume": 0.7,
     "label": "ふーーーん(不満)",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 549
   },
   {
     "id": "fuuuuuun",
@@ -4403,7 +4953,8 @@
     "k": "ふん",
     "volume": 0.7,
     "label": "ふーーーーーん(疑)",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 550
   },
   {
     "id": "fuuun3",
@@ -4411,7 +4962,8 @@
     "k": "ふん",
     "volume": 1.0,
     "label": "ふーーん(ツン)",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 551
   },
   {
     "id": "fun2",
@@ -4419,7 +4971,8 @@
     "k": "ふん",
     "volume": 0.5,
     "label": "フン！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 552
   },
   {
     "id": "funfun",
@@ -4427,7 +4980,8 @@
     "k": "ふんふん",
     "volume": 1.0,
     "label": "ふんふん",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 553
   },
   {
     "id": "funfunfun",
@@ -4435,7 +4989,8 @@
     "k": "ふんふんふん",
     "volume": 0.2,
     "label": "ふんふんふん",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 554
   },
   {
     "id": "buta1",
@@ -4443,7 +4998,8 @@
     "k": "ぶた",
     "volume": 0.5,
     "label": "ブタ",
-    "className": "食べ物"
+    "className": "食べ物",
+    "serial": 555
   },
   {
     "id": "hee",
@@ -4451,7 +5007,8 @@
     "k": "へ",
     "volume": 0.2,
     "label": "へー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 556
   },
   {
     "id": "hou4",
@@ -4459,7 +5016,8 @@
     "k": "ほうほうほうほう",
     "volume": 0.8,
     "label": "ほぅほぅほぅほぅ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 557
   },
   {
     "id": "hokatera",
@@ -4467,7 +5025,8 @@
     "k": "ほかてら",
     "volume": 0.5,
     "label": "ほかてら",
-    "className": "その他"
+    "className": "その他",
+    "serial": 558
   },
   {
     "id": "hoshiimo2",
@@ -4475,7 +5034,8 @@
     "k": "ほしいものがあるんだけどお",
     "volume": 0.5,
     "label": "欲しいものが～あるんだけどぉ～",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 559
   },
   {
     "id": "honasainara",
@@ -4483,7 +5043,8 @@
     "k": "ほなさいなら",
     "volume": 0.5,
     "label": "ほな、さいなら～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 560
   },
   {
     "id": "honto",
@@ -4491,7 +5052,8 @@
     "k": "ほんとう",
     "volume": 0.5,
     "label": "本当？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 561
   },
   {
     "id": "hontodayo",
@@ -4499,7 +5061,8 @@
     "k": "ほんとうだよ",
     "volume": 0.5,
     "label": "本当だよ",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 562
   },
   {
     "id": "honto2",
@@ -4507,7 +5070,8 @@
     "k": "ほんとお",
     "volume": 0.8,
     "label": "ほんとぉ？(疑)",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 563
   },
   {
     "id": "hontodaa",
@@ -4515,7 +5079,8 @@
     "k": "ほんとだ",
     "volume": 0.8,
     "label": "ほんとだぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 564
   },
   {
     "id": "honmononoai",
@@ -4523,7 +5088,8 @@
     "k": "ほんもののあいがほしいから",
     "volume": 0.5,
     "label": "本物の愛が欲しいから！",
-    "className": "その他"
+    "className": "その他",
+    "serial": 565
   },
   {
     "id": "boku",
@@ -4531,7 +5097,8 @@
     "k": "ぼくはねせいぎのみかたになりたいんだ",
     "volume": 0.5,
     "label": "僕はね、正義の味方になりたいんだ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 566
   },
   {
     "id": "pochi",
@@ -4539,7 +5106,8 @@
     "k": "ぽちつ",
     "volume": 1.0,
     "label": "ポチっ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 567
   },
   {
     "id": "ma",
@@ -4547,7 +5115,8 @@
     "k": "ま",
     "volume": 1.0,
     "label": "マ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 568
   },
   {
     "id": "maakateru",
@@ -4555,7 +5124,8 @@
     "k": "まあかてるやろ",
     "volume": 0.7,
     "label": "まぁ勝てるやろ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 569
   },
   {
     "id": "maasokosoko",
@@ -4563,7 +5133,8 @@
     "k": "まあそこそこ",
     "volume": 0.5,
     "label": "まぁそこそこ？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 570
   },
   {
     "id": "maanee",
@@ -4571,7 +5142,8 @@
     "k": "まあねえ",
     "volume": 0.5,
     "label": "まぁねぇ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 571
   },
   {
     "id": "maamaamattena",
@@ -4579,7 +5151,8 @@
     "k": "まあまあまつてなつて",
     "volume": 0.8,
     "label": "まぁまぁ、待ってなって",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 572
   },
   {
     "id": "makashitokina",
@@ -4587,7 +5160,8 @@
     "k": "まかしときな",
     "volume": 0.2,
     "label": "まかしときな！",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 573
   },
   {
     "id": "makasena",
@@ -4595,7 +5169,8 @@
     "k": "まかせな",
     "volume": 0.5,
     "label": "まかせな！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 574
   },
   {
     "id": "makasena2",
@@ -4603,7 +5178,8 @@
     "k": "まかせな",
     "volume": 0.8,
     "label": "まかせな！2",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 575
   },
   {
     "id": "makenai",
@@ -4611,7 +5187,8 @@
     "k": "まけない",
     "volume": 0.8,
     "label": "負けない！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 576
   },
   {
     "id": "hajimeteminaito",
@@ -4619,7 +5196,8 @@
     "k": "まこれははじめてみないとわからないよね",
     "volume": 0.5,
     "label": "ま、これは始めてみないとわからないよね",
-    "className": "その他"
+    "className": "その他",
+    "serial": 577
   },
   {
     "id": "majisaiaku",
@@ -4627,7 +5205,8 @@
     "k": "まじさいあく",
     "volume": 0.5,
     "label": "マジ！サイアク！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 578
   },
   {
     "id": "majidekitsui",
@@ -4635,7 +5214,8 @@
     "k": "まじできつい",
     "volume": 0.5,
     "label": "マジでキツい",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 579
   },
   {
     "id": "majinouso",
@@ -4643,7 +5223,8 @@
     "k": "まじのうそつき",
     "volume": 0.6,
     "label": "マジのウソつき！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 580
   },
   {
     "id": "majiyurusenai",
@@ -4651,7 +5232,8 @@
     "k": "まじゆるせないわ",
     "volume": 0.6,
     "label": "マジ許せないわ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 581
   },
   {
     "id": "matashitegomen",
@@ -4659,7 +5241,8 @@
     "k": "またしてごめん",
     "volume": 0.5,
     "label": "待たしてゴメン",
-    "className": "謝罪"
+    "className": "謝罪",
+    "serial": 582
   },
   {
     "id": "matatsugino",
@@ -4667,7 +5250,8 @@
     "k": "またつぎのはいしんでおあいしましようね",
     "volume": 0.6,
     "label": "また、次の配信でお会いしましょうね～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 583
   },
   {
     "id": "madaaru",
@@ -4675,7 +5259,8 @@
     "k": "まだあるんかい",
     "volume": 0.5,
     "label": "まだあるんかい！",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 584
   },
   {
     "id": "matte",
@@ -4683,7 +5268,8 @@
     "k": "まつてえ",
     "volume": 0.5,
     "label": "待ってぇ(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 585
   },
   {
     "id": "mattemasu",
@@ -4691,7 +5277,8 @@
     "k": "まつてます",
     "volume": 0.5,
     "label": "待ってま～す",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 586
   },
   {
     "id": "manager",
@@ -4699,7 +5286,8 @@
     "k": "まねじやさんかな",
     "volume": 0.5,
     "label": "マネージャーさんかな？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 587
   },
   {
     "id": "mama",
@@ -4707,7 +5295,8 @@
     "k": "まま",
     "volume": 0.5,
     "label": "ママ～",
-    "className": "その他"
+    "className": "その他",
+    "serial": 588
   },
   {
     "id": "mieanken",
@@ -4715,7 +5304,8 @@
     "k": "みえあんけんまつてます",
     "volume": 0.5,
     "label": "三重案件待ってま～す",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 589
   },
   {
     "id": "mitekudasaiyo",
@@ -4723,7 +5313,8 @@
     "k": "みてくださいよ",
     "volume": 0.5,
     "label": "見てくださいよ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 590
   },
   {
     "id": "mitemite",
@@ -4731,7 +5322,8 @@
     "k": "みてみて",
     "volume": 1.0,
     "label": "見て見てー",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 591
   },
   {
     "id": "minasan",
@@ -4739,7 +5331,8 @@
     "k": "みなさんほんじ",
     "volume": 0.8,
     "label": "皆さん、ほんj？？？",
-    "className": "その他"
+    "className": "その他",
+    "serial": 592
   },
   {
     "id": "minasanmoiidesu",
@@ -4747,7 +5340,8 @@
     "k": "みなさんもいいですよ",
     "volume": 0.8,
     "label": "みなさんもいいですよ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 593
   },
   {
     "id": "mibun",
@@ -4755,7 +5349,8 @@
     "k": "みぶんをしつかりわきまえてください",
     "volume": 1.0,
     "label": "身分をしっかりわきまえてください",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 594
   },
   {
     "id": "minnaoshiete",
@@ -4763,7 +5358,8 @@
     "k": "みんなおしえて",
     "volume": 0.5,
     "label": "みんな～教えて～？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 595
   },
   {
     "id": "minnashimatsu",
@@ -4771,7 +5367,8 @@
     "k": "みんなしまつしたんですけどね",
     "volume": 1.0,
     "label": "みんな始末したんですけどね",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 596
   },
   {
     "id": "minnadoushitara",
@@ -4779,7 +5376,8 @@
     "k": "みんなどうしたらかてるとおもう",
     "volume": 0.9,
     "label": "みんな どうしたら勝てると思う？(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 597
   },
   {
     "id": "minnananiga",
@@ -4787,7 +5385,8 @@
     "k": "みんななにがみたい",
     "volume": 0.8,
     "label": "みんな何が見たい？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 598
   },
   {
     "id": "mechakawa",
@@ -4795,7 +5394,8 @@
     "k": "めちやくちやかわいくない",
     "volume": 0.8,
     "label": "めちゃくちゃかわいくない？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 599
   },
   {
     "id": "mecchahisashi",
@@ -4803,7 +5403,8 @@
     "k": "めつちやひさしぶりじやない",
     "volume": 0.5,
     "label": "めっちゃ久しぶりじゃな～い？",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 600
   },
   {
     "id": "mechawakaru",
@@ -4811,7 +5412,8 @@
     "k": "めつちやわかる",
     "volume": 0.8,
     "label": "めっちゃわかる！",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 601
   },
   {
     "id": "meronsuki",
@@ -4819,7 +5421,8 @@
     "k": "めろんがすき",
     "volume": 0.5,
     "label": "メロンが好き",
-    "className": "食べ物"
+    "className": "食べ物",
+    "serial": 602
   },
   {
     "id": "mouhz",
@@ -4827,7 +5430,8 @@
     "k": "もうはずかしいな",
     "volume": 1.0,
     "label": "もう! 恥ずかしいな",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 603
   },
   {
     "id": "moo",
@@ -4835,7 +5439,8 @@
     "k": "もおおお",
     "volume": 0.5,
     "label": "もぉぉぉ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 604
   },
   {
     "id": "moshimoshi",
@@ -4843,7 +5448,8 @@
     "k": "もしもし",
     "volume": 0.25,
     "label": "もしもしー",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 605
   },
   {
     "id": "moshimoshi2",
@@ -4851,7 +5457,8 @@
     "k": "もしもし",
     "volume": 0.25,
     "label": "もしもしー2",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 606
   },
   {
     "id": "yaa",
@@ -4859,7 +5466,8 @@
     "k": "やああ",
     "volume": 1.0,
     "label": "やぁぁ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 607
   },
   {
     "id": "yassu",
@@ -4867,7 +5475,8 @@
     "k": "やすつ",
     "volume": 0.2,
     "label": "安っ",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 608
   },
   {
     "id": "yadaa",
@@ -4875,7 +5484,8 @@
     "k": "やだ",
     "volume": 0.8,
     "label": "やだー",
-    "className": "否定"
+    "className": "否定",
+    "serial": 609
   },
   {
     "id": "yadanaa",
@@ -4883,7 +5493,8 @@
     "k": "やだなあ",
     "volume": 0.8,
     "label": "やだなぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 610
   },
   {
     "id": "yattaa",
@@ -4891,7 +5502,8 @@
     "k": "やった",
     "volume": 0.3,
     "label": "やったー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 611
   },
   {
     "id": "yattaa2",
@@ -4899,7 +5511,8 @@
     "k": "やった",
     "volume": 0.4,
     "label": "やったー2",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 612
   },
   {
     "id": "yattaa3",
@@ -4907,7 +5520,8 @@
     "k": "やつた",
     "volume": 0.6,
     "label": "やったー3",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 613
   },
   {
     "id": "yattaa4",
@@ -4915,7 +5529,8 @@
     "k": "やつた",
     "volume": 0.15,
     "label": "やったー4",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 614
   },
   {
     "id": "yattalucky",
@@ -4923,7 +5538,8 @@
     "k": "やつたあらつきー",
     "volume": 0.3,
     "label": "やったぁラッキー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 615
   },
   {
     "id": "yattane",
@@ -4931,7 +5547,8 @@
     "k": "やつたね",
     "volume": 0.5,
     "label": "やったね！",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 616
   },
   {
     "id": "yacchimatta",
@@ -4939,7 +5556,8 @@
     "k": "やつちまつたなあ",
     "volume": 0.5,
     "label": "やっちまったなぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 617
   },
   {
     "id": "yatteyaru2",
@@ -4947,7 +5565,8 @@
     "k": "やつてやるう",
     "volume": 0.5,
     "label": "やってやるぅ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 618
   },
   {
     "id": "yatteyaru",
@@ -4955,7 +5574,8 @@
     "k": "やつてやるぞいつか",
     "volume": 0.5,
     "label": "やってやるぞいつか",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 619
   },
   {
     "id": "yatte",
@@ -4963,7 +5583,8 @@
     "k": "やつてらんね",
     "volume": 0.5,
     "label": "やってらんね",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 620
   },
   {
     "id": "yabaa2",
@@ -4971,7 +5592,8 @@
     "k": "やば",
     "volume": 0.7,
     "label": "やば",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 621
   },
   {
     "id": "yabaa",
@@ -4979,7 +5601,8 @@
     "k": "やばあ",
     "volume": 0.7,
     "label": "やばぁ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 622
   },
   {
     "id": "yabee",
@@ -4987,7 +5610,8 @@
     "k": "やべ",
     "volume": 0.5,
     "label": "やべ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 623
   },
   {
     "id": "yabeee",
@@ -4995,7 +5619,8 @@
     "k": "やべ",
     "volume": 0.5,
     "label": "やべーー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 624
   },
   {
     "id": "yabeeee",
@@ -5003,7 +5628,8 @@
     "k": "やべ",
     "volume": 0.5,
     "label": "やべーーーー",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 625
   },
   {
     "id": "yametetteitta",
@@ -5011,7 +5637,8 @@
     "k": "やめてつていつたじやん",
     "volume": 0.15,
     "label": "やめてって言ったじゃん(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 626
   },
   {
     "id": "yametemajide",
@@ -5019,7 +5646,8 @@
     "k": "やめてまじでもう",
     "volume": 0.6,
     "label": "やめてマジで、もぅ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 627
   },
   {
     "id": "yamete3",
@@ -5027,7 +5655,8 @@
     "k": "やめてやめてやめて",
     "volume": 0.6,
     "label": "やめてやめてやめて",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 628
   },
   {
     "id": "yamena",
@@ -5035,7 +5664,8 @@
     "k": "やめな",
     "volume": 0.5,
     "label": "やめな！",
-    "className": "命令"
+    "className": "命令",
+    "serial": 629
   },
   {
     "id": "yaranaiyon",
@@ -5043,7 +5673,8 @@
     "k": "やらないよん",
     "volume": 0.8,
     "label": "やらないよーん",
-    "className": "否定"
+    "className": "否定",
+    "serial": 630
   },
   {
     "id": "yarimasen",
@@ -5051,7 +5682,8 @@
     "k": "やりません",
     "volume": 0.8,
     "label": "やりません",
-    "className": "否定"
+    "className": "否定",
+    "serial": 631
   },
   {
     "id": "yaruyo",
@@ -5059,7 +5691,8 @@
     "k": "やるよ",
     "volume": 0.5,
     "label": "やるよ！",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 632
   },
   {
     "id": "yaruyo2",
@@ -5067,7 +5700,8 @@
     "k": "やるよ",
     "volume": 0.8,
     "label": "やるよ！2",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 633
   },
   {
     "id": "yuunou",
@@ -5075,7 +5709,8 @@
     "k": "ゆうのうすぎる",
     "volume": 0.5,
     "label": "有能すぎる",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 634
   },
   {
     "id": "yukai",
@@ -5083,7 +5718,8 @@
     "k": "ゆかいゆかい",
     "volume": 0.5,
     "label": "愉快愉快",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 635
   },
   {
     "id": "yukkuri",
@@ -5091,7 +5727,8 @@
     "k": "ゆつくりやすんでね",
     "volume": 0.5,
     "label": "ゆっくり休んでね",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 636
   },
   {
     "id": "yuyushiki",
@@ -5099,7 +5736,8 @@
     "k": "ゆゆしきじたいですよみなさん",
     "volume": 0.8,
     "label": "由々しき事態ですよ、皆さん",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 637
   },
   {
     "id": "yurubo",
@@ -5107,7 +5745,8 @@
     "k": "ゆるぼ",
     "volume": 0.25,
     "label": "ゆる募",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 638
   },
   {
     "id": "yoisho2",
@@ -5115,7 +5754,8 @@
     "k": "よいしよ",
     "volume": 0.2,
     "label": "よいしょ",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 639
   },
   {
     "id": "yokattara",
@@ -5123,7 +5763,8 @@
     "k": "よかったらかつてくれめんす",
     "volume": 0.5,
     "label": "よかったら、買ってクレメンス～",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 640
   },
   {
     "id": "yokattanee",
@@ -5131,7 +5772,8 @@
     "k": "よかつたねえ",
     "volume": 0.8,
     "label": "よかったねぇ",
-    "className": "応援、褒め"
+    "className": "応援、褒め",
+    "serial": 641
   },
   {
     "id": "yokunai",
@@ -5139,7 +5781,8 @@
     "k": "よくない",
     "volume": 0.7,
     "label": "よくない？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 642
   },
   {
     "id": "yokunai2",
@@ -5147,7 +5790,8 @@
     "k": "よくない",
     "volume": 0.7,
     "label": "よくな～い？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 643
   },
   {
     "id": "yokune",
@@ -5155,7 +5799,8 @@
     "k": "よくね",
     "volume": 0.5,
     "label": "よ゛く゛ね゛？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 644
   },
   {
     "id": "yoshi",
@@ -5163,7 +5808,8 @@
     "k": "よし",
     "volume": 0.5,
     "label": "よし",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 645
   },
   {
     "id": "yoshi2",
@@ -5171,7 +5817,8 @@
     "k": "よし",
     "volume": 1.0,
     "label": "よし(低)",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 646
   },
   {
     "id": "yoshiikeru",
@@ -5179,7 +5826,8 @@
     "k": "よしいける",
     "volume": 0.5,
     "label": "よし！イケる！",
-    "className": "肯定"
+    "className": "肯定",
+    "serial": 647
   },
   {
     "id": "yomichi",
@@ -5187,7 +5835,8 @@
     "k": "よみちにきをつけろよ",
     "volume": 0.8,
     "label": "夜道に気を付けろよ？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 648
   },
   {
     "id": "yoruho",
@@ -5195,7 +5844,8 @@
     "k": "よるほ",
     "volume": 0.5,
     "label": "よるほ～",
-    "className": "その他"
+    "className": "その他",
+    "serial": 649
   },
   {
     "id": "yoroshiku",
@@ -5203,7 +5853,8 @@
     "k": "よろしくおねがいします",
     "volume": 0.5,
     "label": "よろしくおねがいします！",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 650
   },
   {
     "id": "yoroshikune",
@@ -5211,7 +5862,8 @@
     "k": "よろしくね",
     "volume": 0.5,
     "label": "よろしくね～",
-    "className": "あいさつ"
+    "className": "あいさつ",
+    "serial": 651
   },
   {
     "id": "line",
@@ -5219,7 +5871,8 @@
     "k": "らいんやつてる",
     "volume": 0.5,
     "label": "LINEやってる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 652
   },
   {
     "id": "letssontaku",
@@ -5227,7 +5880,8 @@
     "k": "れつつそんたくそんたくしろよ",
     "volume": 0.5,
     "label": "レッツ忖度、忖度しろよ～",
-    "className": "命令"
+    "className": "命令",
+    "serial": 653
   },
   {
     "id": "letsgo",
@@ -5235,7 +5889,8 @@
     "k": "れつつらご",
     "volume": 0.8,
     "label": "レッツらゴー",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 654
   },
   {
     "id": "letsrago2",
@@ -5243,7 +5898,8 @@
     "k": "れつつらご",
     "volume": 0.2,
     "label": "レッツらゴー2",
-    "className": "掛け声"
+    "className": "掛け声",
+    "serial": 655
   },
   {
     "id": "rouhoudesu",
@@ -5251,7 +5907,8 @@
     "k": "ろうほうです",
     "volume": 0.5,
     "label": "朗報ですぅ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 656
   },
   {
     "id": "lolicomdakara",
@@ -5259,7 +5916,8 @@
     "k": "ろりこんだからですよ",
     "volume": 0.5,
     "label": "〇リコンだからですよ",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 657
   },
   {
     "id": "waa",
@@ -5267,7 +5925,8 @@
     "k": "わあ",
     "volume": 0.2,
     "label": "わぁ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 658
   },
   {
     "id": "waao",
@@ -5275,7 +5934,8 @@
     "k": "わあああお",
     "volume": 1.0,
     "label": "わぁぁぁぉ",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 659
   },
   {
     "id": "wakatta",
@@ -5283,7 +5943,8 @@
     "k": "わかつた",
     "volume": 0.8,
     "label": "わかった",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 660
   },
   {
     "id": "wakarankedo",
@@ -5291,7 +5952,8 @@
     "k": "わからんけど",
     "volume": 0.8,
     "label": "わからんけど",
-    "className": "ツッコミ"
+    "className": "ツッコミ",
+    "serial": 661
   },
   {
     "id": "wakaru",
@@ -5299,7 +5961,8 @@
     "k": "わかる",
     "volume": 1.0,
     "label": "わかる？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 662
   },
   {
     "id": "wakannai",
@@ -5307,7 +5970,8 @@
     "k": "わかんないじやん",
     "volume": 0.5,
     "label": "わかんないじゃん(泣)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 663
   },
   {
     "id": "watakushiojyou",
@@ -5315,7 +5979,8 @@
     "k": "わたくしおじようさまぞ",
     "volume": 0.5,
     "label": "わたくし～お嬢様ぞ",
-    "className": "その他"
+    "className": "その他",
+    "serial": 664
   },
   {
     "id": "watashijyanai",
@@ -5323,7 +5988,8 @@
     "k": "わたしじやないです",
     "volume": 0.3,
     "label": "私じゃないです",
-    "className": "否定"
+    "className": "否定",
+    "serial": 665
   },
   {
     "id": "watashidake",
@@ -5331,7 +5997,8 @@
     "k": "わたしだけをみていてください",
     "volume": 0.8,
     "label": "私だけを見ていてください",
-    "className": "命令"
+    "className": "命令",
+    "serial": 666
   },
   {
     "id": "watashiniuso",
@@ -5339,7 +6006,8 @@
     "k": "わたしにうそついたのししよお",
     "volume": 0.8,
     "label": "私に嘘付いたの？師匠ぉ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 667
   },
   {
     "id": "watasinikakawari",
@@ -5347,7 +6015,8 @@
     "k": "わたしにかかわりがあるとおもうなおまえのじんせいに",
     "volume": 0.5,
     "label": "私に関わりがあると思うなお前の人生に",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 668
   },
   {
     "id": "watashini",
@@ -5355,7 +6024,8 @@
     "k": "わたしにきくな",
     "volume": 0.7,
     "label": "私に…聞くな",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 669
   },
   {
     "id": "watashinikikuna",
@@ -5363,7 +6033,8 @@
     "k": "わたしにきくな",
     "volume": 0.6,
     "label": "私に聞くな",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 670
   },
   {
     "id": "watashinoseijya",
@@ -5371,7 +6042,8 @@
     "k": "わたしのせいじやない",
     "volume": 0.5,
     "label": "私のせいじゃない",
-    "className": "否定"
+    "className": "否定",
+    "serial": 671
   },
   {
     "id": "watashinochikarade2",
@@ -5379,7 +6051,8 @@
     "k": "わたしのちからでかちたいよなあ",
     "volume": 0.7,
     "label": "私の力で勝ちたいよなぁ？",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 672
   },
   {
     "id": "watashihasakusaku",
@@ -5387,7 +6060,8 @@
     "k": "わたしはさくさくぱんだがすきです",
     "volume": 0.5,
     "label": "私はさくさくパンダが好きです",
-    "className": "食べ物"
+    "className": "食べ物",
+    "serial": 673
   },
   {
     "id": "majideshiranai",
@@ -5395,7 +6069,8 @@
     "k": "わたしまじでこれしらないんだけど",
     "volume": 1.0,
     "label": "私マジでこれ知らないんだけどぉ",
-    "className": "否定"
+    "className": "否定",
+    "serial": 674
   },
   {
     "id": "watashiwokatasete",
@@ -5403,7 +6078,8 @@
     "k": "わたしをかたせて",
     "volume": 0.7,
     "label": "私を勝たせてぇ",
-    "className": "問いかけ、呼びかけ"
+    "className": "問いかけ、呼びかけ",
+    "serial": 675
   },
   {
     "id": "wara",
@@ -5411,7 +6087,8 @@
     "k": "わら",
     "volume": 0.5,
     "label": "ｗ(ワラ)",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 676
   },
   {
     "id": "waretetris",
@@ -5419,7 +6096,8 @@
     "k": "われてとりすうまぞ",
     "volume": 0.5,
     "label": "我、テトリスうまぞ？",
-    "className": "恫喝、罵倒、煽り"
+    "className": "恫喝、罵倒、煽り",
+    "serial": 677
   },
   {
     "id": "wawawa",
@@ -5427,7 +6105,8 @@
     "k": "わわわ",
     "volume": 0.7,
     "label": "ワ...ワ...ワ",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 678
   },
   {
     "id": "wan",
@@ -5435,7 +6114,8 @@
     "k": "わんおおがたけん",
     "volume": 0.5,
     "label": "ワン(大型犬)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 679
   },
   {
     "id": "n",
@@ -5443,7 +6123,8 @@
     "k": "ん",
     "volume": 1.0,
     "label": "ん？",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 680
   },
   {
     "id": "nnyoiyon",
@@ -5451,7 +6132,8 @@
     "k": "んによいよん",
     "volume": 1.0,
     "label": "んにょいよーん",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 681
   },
   {
     "id": "nfufu",
@@ -5459,7 +6141,8 @@
     "k": "んふふ",
     "volume": 0.5,
     "label": "んふふ",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 682
   },
   {
     "id": "nfufu2",
@@ -5467,7 +6150,8 @@
     "k": "んふふ",
     "volume": 0.5,
     "label": "んふふ2",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 683
   },
   {
     "id": "nfufu3",
@@ -5475,7 +6159,8 @@
     "k": "んふふ",
     "volume": 0.5,
     "label": "んふふ3",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 684
   },
   {
     "id": "nfufu4",
@@ -5483,7 +6168,8 @@
     "k": "んふふ",
     "volume": 0.5,
     "label": "んふふ4",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 685
   },
   {
     "id": "nfufu5",
@@ -5491,7 +6177,8 @@
     "k": "んふふ",
     "volume": 0.5,
     "label": "んふふ5",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 686
   },
   {
     "id": "nfufu6",
@@ -5499,7 +6186,8 @@
     "k": "んふふ",
     "volume": 0.5,
     "label": "んふふ6",
-    "className": "笑い"
+    "className": "笑い",
+    "serial": 687
   },
   {
     "id": "nmada",
@@ -5507,7 +6195,8 @@
     "k": "んまだ",
     "volume": 0.8,
     "label": "んーまだ",
-    "className": "返事、リアクション"
+    "className": "返事、リアクション",
+    "serial": 688
   },
   {
     "id": "nn2",
@@ -5515,7 +6204,8 @@
     "k": "んん",
     "volume": 0.5,
     "label": "んん",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 689
   },
   {
     "id": "nn",
@@ -5523,7 +6213,8 @@
     "k": "んん",
     "volume": 0.5,
     "label": "んん(低)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 690
   },
   {
     "id": "nn_high",
@@ -5531,7 +6222,8 @@
     "k": "んん",
     "volume": 1.0,
     "label": "んん(高)",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 691
   },
   {
     "id": "nn3",
@@ -5539,7 +6231,8 @@
     "k": "んん",
     "volume": 0.5,
     "label": "んん(高)2",
-    "className": "効果音、悲鳴、技"
+    "className": "効果音、悲鳴、技",
+    "serial": 692
   },
   {
     "id": "nn_nfun",
@@ -5547,7 +6240,8 @@
     "k": "んんぐすんぐすんぐすん",
     "volume": 0.5,
     "label": "んんーぐすんぐすんぐすん",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 693
   },
   {
     "id": "nnnnn",
@@ -5555,7 +6249,8 @@
     "k": "んんん",
     "volume": 0.5,
     "label": "んんん～(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 694
   },
   {
     "id": "nnnnnn",
@@ -5563,7 +6258,8 @@
     "k": "んんんんん",
     "volume": 0.5,
     "label": "んんんんん(弱)",
-    "className": "泣、弱"
+    "className": "泣、弱",
+    "serial": 695
   },
   {
     "id": "nazo",
@@ -5571,6 +6267,7 @@
     "k": "？？？",
     "volume": 1.0,
     "label": "？？？",
-    "className": "その他"
+    "className": "その他",
+    "serial": 696
   }
 ]
