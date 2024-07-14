@@ -1,11 +1,14 @@
 'use client';
 import TableLayout from '@/components/TabLayout';
+import { Suspense } from 'react';
 import { RecoilRoot } from 'recoil';
 
 export default function Home() {
   return (
     <RecoilRoot>
-      <TableLayout />
+      <Suspense>
+        <TableLayout />
+      </Suspense>
     </RecoilRoot>
   );
 }
