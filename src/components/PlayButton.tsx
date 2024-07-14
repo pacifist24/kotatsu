@@ -2,6 +2,8 @@ import { makeAudioPlayer } from '@/app/playAudio';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import Button from '@mui/material/Button';
 import Checkbox from '@mui/material/Checkbox';
+import FormControlLabel from '@mui/material/FormControlLabel';
+import FormGroup from '@mui/material/FormGroup';
 import { FC, useState } from 'react';
 import { useRecoilState } from 'recoil';
 
@@ -63,9 +65,13 @@ const PlayButton: FC = () => {
           停止
         </Button>
       )}
-      <div className="text-sm">
-        <Checkbox checked={loopPlayChecked} onChange={onChange} />
-        ループ再生
+      <div className="ml-4">
+        <FormGroup>
+          <FormControlLabel
+            control={<Checkbox checked={loopPlayChecked} onChange={onChange} />}
+            label="ループ再生"
+          />
+        </FormGroup>
       </div>
     </div>
   );
