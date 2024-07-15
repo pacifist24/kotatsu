@@ -1,3 +1,4 @@
+// 連続再生タブ中央の>ボタン
 import { AllButtonListSelectedIndexState } from '@/atoms/AllButtonListSelectedIndex';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import IconButton from '@mui/material/IconButton';

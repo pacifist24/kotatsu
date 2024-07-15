@@ -1,3 +1,4 @@
+// 連続再生タブの右側の状態を示すrecoil
 import { atom } from 'recoil';
 
 type PlaybackItemsType = {

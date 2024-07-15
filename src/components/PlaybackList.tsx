@@ -1,3 +1,4 @@
+// 連続再生タブ右側（再生リスト）
 import { makeAudioPlayer } from '@/app/playAudio';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import { FC } from 'react';

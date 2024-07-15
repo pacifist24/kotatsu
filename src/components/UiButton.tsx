@@ -1,3 +1,4 @@
+// 全一覧と会話用途別一覧のボタン
 import { makeAudioPlayer } from '@/app/playAudio';
 import { FC } from 'react';
 

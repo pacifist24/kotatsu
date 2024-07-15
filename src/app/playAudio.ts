@@ -1,3 +1,4 @@
+// 音声再生用関数
 import { Howl } from 'howler';
 import Data from '../../public/button_list.json';
 

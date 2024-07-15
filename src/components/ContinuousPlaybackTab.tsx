@@ -1,3 +1,4 @@
+// 連続再生のタブ
 import AddButton from '@/components/AddButton';
 import AllAudioList from '@/components/AllAudioList';
 import OperationBar from '@/components/OperationBar';

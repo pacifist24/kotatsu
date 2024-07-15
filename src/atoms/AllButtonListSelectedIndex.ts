@@ -1,3 +1,4 @@
+// 連続再生タブの左側の選択箇所を示すrecoil
 import { atom } from 'recoil';
 
 type AllButtonListSelectedIndexType = {

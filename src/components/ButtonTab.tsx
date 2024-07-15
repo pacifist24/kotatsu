@@ -1,3 +1,4 @@
+// 全一覧と会話用途別一覧のボタンの一覧
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import UiButton from '@/components/UiButton';
 import Menu from '@mui/material/Menu';

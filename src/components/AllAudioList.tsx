@@ -1,3 +1,4 @@
+// 連続再生タブの左側リスト
 import { makeAudioPlayer } from '@/app/playAudio';
 import { AllButtonListSelectedIndexState } from '@/atoms/AllButtonListSelectedIndex';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';

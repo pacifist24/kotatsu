@@ -1,3 +1,4 @@
+// 連続再生タブの右側のボタン一覧
 import { createUrl } from '@/app/output';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import { Button } from '@mui/material';
@@ -9,6 +10,7 @@ import IconButton from '@mui/material/IconButton';
 import { FC, useState } from 'react';
 import { useRecoilState, useRecoilValue } from 'recoil';
 
+// 上矢印ボタン、再生リストの要素を一つ上にずらす
 const MoveUpButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const onClick = () => {
@@ -47,6 +49,7 @@ const MoveUpButton: FC = () => {
   );
 };
 
+// 下矢印ボタン、再生リストの要素を一つ下にずらす
 const MoveDownButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const onClick = () => {
@@ -89,6 +92,7 @@ const MoveDownButton: FC = () => {
   );
 };
 
+// ごみ箱ボタン、再生リストの要素を一つ削除する
 const TrashButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const onClick = () => {
@@ -125,6 +129,7 @@ const TrashButton: FC = () => {
   );
 };
 
+// 白紙ボタン、再生リストの要素を確認後に全削除する
 const AllClearButton: FC = () => {
   const [playbackItems, setPlaybackItems] = useRecoilState(PlaybackItemsState);
   const [open, setOpen] = useState(false);
@@ -185,6 +190,7 @@ const AllClearButton: FC = () => {
   );
 };
 
+// 上矢印付きの紙ボタン、再生リストを再現するためのURLを出力する
 const OutputUrlButton: FC = () => {
   const playbackItems = useRecoilValue(PlaybackItemsState);
   const [open, setOpen] = useState(false);

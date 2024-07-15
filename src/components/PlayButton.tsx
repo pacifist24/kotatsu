@@ -1,3 +1,4 @@
+// 連続再生タブ下側の再生（停止）ボタン
 import { makeAudioPlayer } from '@/app/playAudio';
 import { PlaybackItemsState } from '@/atoms/PlaybackItem';
 import Button from '@mui/material/Button';
